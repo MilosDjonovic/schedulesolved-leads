@@ -1,0 +1,474 @@
+﻿SchoolCategory,DistrictName,DistrictCode,SchoolName,FirstName,LastName,ElectronicMailAddress,PhysicalAddress_StreetNumberName,PhysicalAddress_City,PhysicalAddress_StateAbbreviationCode,PhysicalAddress_PostalCode,WebSite
+Central Office,ROSWELL ,004,ROSWELL ,TAMRA,GEDDE,tgedde@risd.k12.nm.us,300 N. KENTUCKY,ROSWELL,NM,88201,http://www.risd.k12.nm.us
+Central Office,LOVINGTON ,031,LOVINGTON ,JOY,ALEXANDER,lorialexander@lovingtonschools.net,18 WEST WASHINGTON,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+Central Office,ALAMOGORDO ,046,ALAMOGORDO ,Michael,Crabtree,Michael.Crabtree@alamogordoschools.org,1211 HAWAII AVE,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+Elementary School,ALBUQUERQUE ,001,A. MONTOYA ELEMENTARY,Doreen,Trotz,trotz@aps.edu,24 PUBLIC SCHOOL RD,TIJERAS,NM,87059,rams.aps.edu
+Elementary School,ALBUQUERQUE ,001,ADOBE ACRES ELEMENTARY,Dorene,Baca,baca_do@aps.edu,1724 CAMINO DEL VALLE SW,ALBUQUERQUE,NM,87105,adobeacres.aps.edu
+Elementary School,ALBUQUERQUE ,001,ADOBE ACRES ELEMENTARY,Maria,Cordero Lujan,cordero_m@aps.edu,1724 CAMINO DEL VALLE SW,ALBUQUERQUE,NM,87105,adobeacres.aps.edu
+Elementary School,ALBUQUERQUE ,001,ALAMEDA ELEMENTARY,Anna,Chavez,Anna.Chavez@aps.edu,412 ALAMEDA BLVD NW,ALBUQUERQUE,NM,87114,Alameda.aps.edu
+Elementary School,ALBUQUERQUE ,001,ALAMEDA ELEMENTARY,Melissa,Sanchez,sanchez_me@aps.edu,412 ALAMEDA BLVD NW,ALBUQUERQUE,NM,87114,Alameda.aps.edu
+Elementary School,ALBUQUERQUE ,001,ALAMOSA ELEMENTARY,Alvaro,Ramazzini,Alvaro.Ramazzini@aps.edu,6500 SUNSET GARDENS RD SW,ALBUQUERQUE,NM,87121,alamosa.aps.edu
+Elementary School,ALBUQUERQUE ,001,ALICE KING COMMUNITY SCHOOL,Kristi,Collins,kristi@akcs.org,8100 MOUNTAIN RD. NE,ALBUQUERQUE,NM,87110,akcs.org
+Elementary School,ALBUQUERQUE ,001,ALVARADO ELEMENTARY,Desiree,Springer,Desiree.Springer@aps.edu,1100 SOLAR RD NW,ALBUQUERQUE,NM,87107,alvarado.aps.edu
+Elementary School,ALBUQUERQUE ,001,APACHE ELEMENTARY,Michelle,Waldrop,Michelle.Waldrop@aps.edu,12800 COPPER ST NE,ALBUQUERQUE,NM,87123,apache.aps.edu
+Elementary School,ALBUQUERQUE ,001,ARMIJO ELEMENTARY,Angelica,Portillo,Angelica.Portillo@aps.edu,1440 GATEWOOD RD SW,ALBUQUERQUE,NM,87105,armijo.aps.edu
+Elementary School,ALBUQUERQUE ,001,ARROYO DEL OSO ELEMENTARY,Deborah,Henley,henley@aps.edu,6504 HARPER NE,ALBUQUERQUE,NM,87109,arroyodeloso.aps.edu
+Elementary School,ALBUQUERQUE ,001,ATRISCO ELEMENTARY,Yvonne,Salazar,yvonne.salazar1@aps.edu,1201 ATRISCO RD SW,ALBUQUERQUE,NM,87105,atrisco.aps.edu.
+Elementary School,ALBUQUERQUE ,001,BANDELIER ELEMENTARY,Daniel,Montano,montano_dan@aps.edu,3309 PERSHING ST SE,ALBUQUERQUE,NM,87106,bandelier.aps.edu
+Elementary School,ALBUQUERQUE ,001,BARCELONA ELEMENTARY,Rae,Dooley,Rae.Dooley@aps.edu,2311 BARCELONA RD SW,ALBUQUERQUE,NM,87105,barcelona.aps.edu
+Elementary School,ALBUQUERQUE ,001,BEL-AIR ELEMENTARY,Hannah,Mainolfa,pierce_h@aps.edu,4725 CANDELARIA RD NE,ALBUQUERQUE,NM,87110,bel-air.aps.edu
+Elementary School,ALBUQUERQUE ,001,BELLEHAVEN ELEMENTARY,Sara,Carrillo,carrillo_s@aps.edu,8701 PRINCESS JEANNE ST NE,ALBUQUERQUE,NM,87112,Bellehaven.aps.edu
+Elementary School,ALBUQUERQUE ,001,CARLOS REY ELEMENTARY,Judith,Touloumis,touloumis@aps.edu,1215 CERRILLOS RD SW,ALBUQUERQUE,NM,87121,carlosrey.aps.edu
+Elementary School,ALBUQUERQUE ,001,CHAMIZA ELEMENTARY,Heidi,Dudley,Heidi.Dudley@aps.edu,5401 HOMESTEAD CIR NW,ALBUQUERQUE,NM,87120,chamiza.aps.edu
+Elementary School,ALBUQUERQUE ,001,CHAPARRAL ELEMENTARY,Michelle,Tudor,Michelle.Tudor@aps.edu,6325 MILNE RD NW,ALBUQUERQUE,NM,87120,chaparral.aps.edu
+Elementary School,ALBUQUERQUE ,001,CHELWOOD ELEMENTARY,Stefanie,Gonzales,Stefanie.Gonzales@aps.edu,12701 CONSTITUTION AV NE,ALBUQUERQUE,NM,87112,chelwood.aps.edu
+Elementary School,ALBUQUERQUE ,001,CHELWOOD ELEMENTARY,Elissa,Varney,Elissa.Varney@aps.edu,12701 CONSTITUTION AV NE,ALBUQUERQUE,NM,87112,chelwood.aps.edu
+Elementary School,ALBUQUERQUE ,001,CHRISTINE DUNCAN HERITAGE ACADEMY,Jesus,Moncada,jmoncada@christineduncan.org,1900 ATRISCO DR. NW,ALBUQUERQUE,NM,87120,https://www.christineduncan.org/
+Elementary School,ALBUQUERQUE ,001,COCHITI ELEMENTARY,Erin,Northern,northern@aps.edu,3100 SAN ISIDRO RD NW,ALBUQUERQUE,NM,87107,cochiti.aps.edu
+Elementary School,ALBUQUERQUE ,001,COLLET PARK ELEMENTARY,Stephani,Treadwell,treadwell_s@aps.edu,2100 MORRIS ST NE,ALBUQUERQUE,NM,87112,colletpark.aps.edu
+Elementary School,ALBUQUERQUE ,001,COMANCHE ELEMENTARY,Lisa,Ulibarri Miller,Lisa.Ulibarri-Miller@aps.edu,3505 PENNSYLVANIA ST NE,ALBUQUERQUE,NM,87110,chaparral.aps.edu
+Elementary School,ALBUQUERQUE ,001,CORAL COMMUNITY CHARTER,Lori,Bachman,lbachman@coralcharter.com,4401 SILVER AVENUE SE,ALBUQUERQUE,NM,87108,http://www.coralcharter.com
+Elementary School,ALBUQUERQUE ,001,CORONADO ELEMENTARY,Sandra,Castro Sandoval,Sandra.Castro@aps.edu,601 4TH ST SW,ALBUQUERQUE,NM,87102,coronado.aps.edu
+Elementary School,ALBUQUERQUE ,001,CORRALES ELEMENTARY,Liv,Baca-Hochhausler,baca_liv@aps.edu,200 TARGET RD,CORRALES,NM,87048,corrales.aps.edu
+Elementary School,ALBUQUERQUE ,001,DENNIS CHAVEZ ELEMENTARY,Jessica,Chavez,chavez_jess@aps.edu,7500 BARSTOW NE,ALBUQUERQUE,NM,87109,dennischavez.aps.edu
+Elementary School,ALBUQUERQUE ,001,DOLORES GONZALES ELEMENTARY,Lorinda,Stuit,stuit@aps.edu,900 ATLANTIC ST SW,ALBUQUERQUE,NM,87102,doloresgonzales.aps.edu
+Elementary School,ALBUQUERQUE ,001,DOUBLE EAGLE ELEMENTARY,Shayna,Kagan,Shayna.Kagan@aps.edu,8901 LOWELL ST NE,ALBUQUERQUE,NM,87122,doubleeagle.aps.edu
+Elementary School,ALBUQUERQUE ,001,DOUBLE EAGLE ELEMENTARY,Crystal,Friedman,friedman_c@aps.edu,8901 LOWELL ST NE,ALBUQUERQUE,NM,87122,doubleeagle.aps.edu
+Elementary School,ALBUQUERQUE ,001,DURANES ELEMENTARY,Stephanie,Trujillo-Weathers,trujillo_sc@aps.edu,2436 ZICKERT RD NW,ALBUQUERQUE,NM,87104,duranes.aps.edu
+Elementary School,ALBUQUERQUE ,001,EAST SAN JOSE ELEMENTARY,Eder,Ortiz,ortiz_eder@aps.edu,415 THAXTON AVE SE,ALBUQUERQUE,NM,87102,eastsanjose.aps.edu
+Elementary School,ALBUQUERQUE ,001,EDMUND G ROSS ELEMENTARY,Brad,Harberts,harberts_b@aps.edu,6700 PALOMAS NE,ALBUQUERQUE,NM,87109,egross.aps.edu
+Elementary School,ALBUQUERQUE ,001,EDWARD GONZALES ELEMENTARY,Lisa,Ludvik,lisa.ludvik@aps.edu,554 90TH ST SW,ALBUQUERQUE,NM,87121,edwardgonzales.aps.edu
+Elementary School,ALBUQUERQUE ,001,EMERSON ELEMENTARY,Renee,Gallegos,renee.gallegos@aps.edu,620 GEORGIA ST SE,ALBUQUERQUE,NM,87108,emerson.aps.edu
+Elementary School,ALBUQUERQUE ,001,EUGENE FIELD ELEMENTARY,Shawna,Wirick,shawna.wirick@aps.edu,700 EDITH BLVD SE,ALBUQUERQUE,NM,87102,eugenefield.aps.edu
+Elementary School,ALBUQUERQUE ,001,GEORGIA O'KEEFFE ELEMENTARY,Cindy,Gaillour,GAILLOUR@aps.edu,11701 SAN VICTORIO NE,ALBUQUERQUE,NM,87111,georgiaokeeffe.aps.edu
+Elementary School,ALBUQUERQUE ,001,GOV BENT ELEMENTARY,Crystal,Avalos,Crystal.Avalos@aps.edu,5700 HENDRIX RD NE,ALBUQUERQUE,NM,87110,governorbent.aps.edu
+Elementary School,ALBUQUERQUE ,001,GRIEGOS ELEMENTARY,Stephanie,Gardner,Stephanie.Gardner@aps.edu,4040 SAN ISIDRO NW,ALBUQUERQUE,NM,87107,griegos.aps.edu
+Elementary School,ALBUQUERQUE ,001,HAWTHORNE ELEMENTARY,Angel,Roman,roman_a@aps.edu,420 GENERAL SOMERVELL ST NE,ALBUQUERQUE,NM,87123,hawthorne.aps.edu
+Elementary School,ALBUQUERQUE ,001,HAWTHORNE ELEMENTARY,Heather,Fritts,Heather.Fritts@aps.edu,420 GENERAL SOMERVELL ST NE,ALBUQUERQUE,NM,87123,hawthorne.aps.edu
+Elementary School,ALBUQUERQUE ,001,HELEN CORDERO PRIMARY,Tia,Christmas,christmas@aps.edu,8800 EUCARIZ SW,ALBUQUERQUE,NM,87121,helencordero.aps.edu
+Elementary School,ALBUQUERQUE ,001,HODGIN ELEMENTARY,Cory,Donley,Cory.Donley@aps.edu,3801 MORNINGSIDE DR NE,ALBUQUERQUE,NM,87110,hodgin.aps.edu
+Elementary School,ALBUQUERQUE ,001,HODGIN ELEMENTARY,Tonya,McCullough,mccullough_to@aps.edu,3801 MORNINGSIDE DR NE,ALBUQUERQUE,NM,87110,hodgin.aps.edu
+Elementary School,ALBUQUERQUE ,001,HUBERT H HUMPHREY ELEMENTARY,Paula,Miller,miller_p@aps.edu,9801 ACADEMY HILLS DR NE,ALBUQUERQUE,NM,87111,huberthumphrey.aps.edu
+Elementary School,ALBUQUERQUE ,001,INEZ ELEMENTARY,Casey,Reid-Kadlec,kadlec_c@aps.edu,1700 PENNSYLVANIA ST NE,ALBUQUERQUE,NM,87110,inez.aps.edu
+Elementary School,ALBUQUERQUE ,001,JANET KAHN FINE ARTS ACADEMY,Felicia,Mondragon,Felicia.Mondragon@aps.edu,9717 INDIAN SCHOOL RD NE,ALBUQUERQUE,NM,87112,https://eubank.aps.edu
+Elementary School,ALBUQUERQUE ,001,JANET KAHN FINE ARTS ACADEMY,Christian,Sigmon,sigmon@aps.edu,9717 INDIAN SCHOOL RD NE,ALBUQUERQUE,NM,87112,https://eubank.aps.edu
+Elementary School,ALBUQUERQUE ,001,JOHN BAKER ELEMENTARY,Katie,Eaton,eaton_k@aps.edu,12015-B TIVOLI ST NE,ALBUQUERQUE,NM,87111,johnbaker.aps.edu
+Elementary School,ALBUQUERQUE ,001,KIRTLAND ELEMENTARY,Emily,Key,emily.key@aps.edu,3530 GIBSON BLVD SE,ALBUQUERQUE,NM,87118,kirtland.aps.edu
+Elementary School,ALBUQUERQUE ,001,KIT CARSON ELEMENTARY,Cindy,Rael,rael_c@aps.edu,1921 BYRON AV SW,ALBUQUERQUE,NM,87105,kitcarson.aps.edu
+Elementary School,ALBUQUERQUE ,001,LA MESA ELEMENTARY,Aura,Acabal,acabal_a@aps.edu,7500 COPPER AV NE,ALBUQUERQUE,NM,87108,lamesa.aps.edu
+Elementary School,ALBUQUERQUE ,001,LAVALAND ELEMENTARY,Nicole,Jaramillo,nicole.jaramillo@aps.edu,501 57TH ST NW,ALBUQUERQUE,NM,87105,lavaland.aps.edu
+Elementary School,ALBUQUERQUE ,001,LEW WALLACE ELEMENTARY,Mary,Salazar,massegee@aps.edu,513 SIXTH ST NW,ALBUQUERQUE,NM,87102,lewwallace.aps.edu
+Elementary School,ALBUQUERQUE ,001,LONGFELLOW ELEMENTARY,Richard,Ulibarri,ulibarri_r@aps.edu,400 EDITH NE,ALBUQUERQUE,NM,87102,longfellow.aps.edu
+Elementary School,ALBUQUERQUE ,001,LOS PADILLAS ELEMENTARY,Cristina,Benitez De Luna,Cristina.Benitezdeluna@aps.edu,2525 LOS PADILLAS RD SW,ALBUQUERQUE,NM,87105,lospadillas.aps.edu
+Elementary School,ALBUQUERQUE ,001,LOS RANCHOS ELEMENTARY,Craig,Robinson,Craig.Robinson@aps.edu,7609 FOURTH ST NW,ALBUQUERQUE,NM,87107,losranchos.aps.edu
+Elementary School,ALBUQUERQUE ,001,LOWELL ELEMENTARY,Kacy,Cash,Kacy.Cash@aps.edu,1700 SUNSHINE TERRACE SE,ALBUQUERQUE,NM,87106,Lowell.aps.edu
+Elementary School,ALBUQUERQUE ,001,MACARTHUR ELEMENTARY,Fred,March,MARCH@aps.edu,1100 MACARTHUR RD NW,ALBUQUERQUE,NM,87107,macarthur.aps.edu
+Elementary School,ALBUQUERQUE ,001,MANZANO MESA ELEMENTARY,Shannon,Dickson,dickson_s@aps.edu,801 ELIZABETH ST SE,ALBUQUERQUE,NM,87123,manzanomesa.aps.edu
+Elementary School,ALBUQUERQUE ,001,MARIE M HUGHES ELEMENTARY,Jenna,Bludworth,Jenna.Bludworth@aps.edu,5701 MOJAVE NW,ALBUQUERQUE,NM,87120,mariehughes.aps.edu
+Elementary School,ALBUQUERQUE ,001,MARK TWAIN ELEMENTARY,Desiree,Earnest,earnest@aps.edu,6316 CONSTITUTION AVE NE,ALBUQUERQUE,NM,87110,marktwain.aps.edu
+Elementary School,ALBUQUERQUE ,001,MARYANN BINFORD ELEMENTARY,Stephanie,Nieto,Stephanie.Nieto@aps.edu,1400 CORRIZ SW,ALBUQUERQUE,NM,87121,maryannbinford.aps.edu
+Elementary School,ALBUQUERQUE ,001,MATHESON PARK ELEMENTARY,Jacqueline,Lovato,lovato_ja@aps.edu,10809 LEXINGTON AVE NE,ALBUQUERQUE,NM,87112,mathesonpark.aps.edu
+Elementary School,ALBUQUERQUE ,001,MCCOLLUM ELEMENTARY,Gabrielle,Miller,Gabrielle.Miller@aps.edu,10900 SAN JACINTO ST NE,ALBUQUERQUE,NM,87112,mccollum.aps.edu
+Elementary School,ALBUQUERQUE ,001,MISSION AVENUE ELEMENTARY,Frances,Garcia,garcia_f@aps.edu,725 MISSION AV NE,ALBUQUERQUE,NM,87107,missionavenue.aps.edu
+Elementary School,ALBUQUERQUE ,001,MISSION AVENUE ELEMENTARY,Jennifer,Blea,JENNIFER.TOOLEY@aps.edu,725 MISSION AV NE,ALBUQUERQUE,NM,87107,missionavenue.aps.edu
+Elementary School,ALBUQUERQUE ,001,MISSION AVENUE ELEMENTARY,Ami,Montoya,Ami.Montoya2@aps.edu,725 MISSION AV NE,ALBUQUERQUE,NM,87107,missionavenue.aps.edu
+Elementary School,ALBUQUERQUE ,001,MITCHELL ELEMENTARY,Ana,Sanchez,sanchez_ana@aps.edu,10121 COMANCHE RD NE,ALBUQUERQUE,NM,87111,Mitchell.aps.edu
+Elementary School,ALBUQUERQUE ,001,MONTE VISTA ELEMENTARY,Rachel,Weihe,weihe_r@aps.edu,3211 MONTE VISTA BLVD NE,ALBUQUERQUE,NM,87106,montevista.aps.edu
+Elementary School,ALBUQUERQUE ,001,MONTE VISTA ELEMENTARY,Cicely,Ryan,Cicely.Ryan@aps.edu,3211 MONTE VISTA BLVD NE,ALBUQUERQUE,NM,87106,montevista.aps.edu
+Elementary School,ALBUQUERQUE ,001,MONTESSORI OF THE RIO GRANDE,Deborah,Henwood,msdeborah@mrgcharter.org,1650 GABALDON DR. N.W.,ALBUQUERQUE,NM,87104,mrgcharter.org
+Elementary School,ALBUQUERQUE ,001,MONTEZUMA ELEMENTARY,Amanda,St John,Amanda.StJohn@aps.edu,3100 INDIAN SCHOOL NE,ALBUQUERQUE,NM,87106,montezuma.aps.edu
+Elementary School,ALBUQUERQUE ,001,MOUNTAIN VIEW ELEMENTARY,Kathryn,Ramsey,Kathryn.Ramsey@aps.edu,5317 SECOND ST SW,ALBUQUERQUE,NM,87105,mountainview.aps.edu
+Elementary School,ALBUQUERQUE ,001,NAVAJO ELEMENTARY,Carmen,Trujillo,Carmen.Trujillo@aps.edu,2936 HUGHES RD SW,ALBUQUERQUE,NM,87105,navajo.aps.edu
+Elementary School,ALBUQUERQUE ,001,NEW MEXICO INTERNATIONAL SCHOOL,Todd,Knouse,HeadofSchool@nmis.org,7215 MONTGOMERY BLVD NE,ALBUQUERQUE,NM,87109,nmis.org
+Elementary School,ALBUQUERQUE ,001,NORTH STAR ELEMENTARY,Misty,Smith,jaquez@aps.edu,9301 VENTURA NE,ALBUQUERQUE,NM,87122,Northstar.aps.edu
+Elementary School,ALBUQUERQUE ,001,ONATE ELEMENTARY,Allie,Weeda,Alice.Weeda@aps.edu,12415 BRENTWOOD HILLS NE,ALBUQUERQUE,NM,87112,onate.aps.edu
+Elementary School,ALBUQUERQUE ,001,OSUNA ELEMENTARY,Hanna,Myers,hanna.myers@aps.edu,4715 MOON ST NE,ALBUQUERQUE,NM,87111,osuna.aps.edu
+Elementary School,ALBUQUERQUE ,001,PAINTED SKY ELEMENTARY,Lily,Montoya,montoya_lm@aps.edu,8101 GAVIN DR NW,ALBUQUERQUE,NM,87120,paintedsky.aps.edu
+Elementary School,ALBUQUERQUE ,001,PAJARITO ELEMENTARY,Debra,Larribas,larribas@aps.edu,2701 DON FELIPE SW,ALBUQUERQUE,NM,87105,Pajarito.aps.edu
+Elementary School,ALBUQUERQUE ,001,PETROGLYPH ELEMENTARY,Kristina,Perea,kristina.perea@aps.edu,5100 MARNA LYNN AVE NW,ALBUQUERQUE,NM,87114,petroglyph.aps.edu
+Elementary School,ALBUQUERQUE ,001,REGINALD CHAVEZ ELEMENTARY,Lynda,Torres,torres_ly@aps.edu,2700 MOUNTAIN RD NW,ALBUQUERQUE,NM,87104,reginaldchavez.aps.edu
+Elementary School,ALBUQUERQUE ,001,RUDOLFO ANAYA ELEMENTARY,Rebecca,Maestas,Rebecca.Maestas@aps.edu,2800 VERMEJO PARK DR SW,ALBUQUERQUE,NM,87121,rudolfoanaya.aps.edu
+Elementary School,ALBUQUERQUE ,001,S. Y. JACKSON ELEMENTARY,Jack,Vermillion,VERMILLION@aps.edu,4720 CAIRO DR NE,ALBUQUERQUE,NM,87111,syjackson.aps.edu
+Elementary School,ALBUQUERQUE ,001,SAN ANTONITO ELEMENTARY,Patricia,Gallegos,gallegos_pat@aps.edu,12555 N HWY 14,SANDIA PARK,NM,87047,sanantonito.aps.edu
+Elementary School,ALBUQUERQUE ,001,SANDIA BASE ELEMENTARY,Jude,Garcia,garcia_ju@aps.edu,21001 WYOMING SE KAFB EAST,ALBUQUERQUE,NM,87116,sandiabase.aps.edu
+Elementary School,ALBUQUERQUE ,001,SEVEN BAR ELEMENTARY,Roberta,Montoya,montoya_rb@aps.edu,4501 SEVEN BAR LOOP NW,ALBUQUERQUE,NM,87114,7bar.aps.edu
+Elementary School,ALBUQUERQUE ,001,SIERRA VISTA ELEMENTARY,Delilah,Lopez,lopez_del@aps.edu,10220 PASEO DEL NORTE NW,ALBUQUERQUE,NM,87114,sierravista@aps.edu
+Elementary School,ALBUQUERQUE ,001,SOMBRA DEL MONTE ELEMENTARY,Amanda,Patterson,patterson_a@aps.edu,9110 SHOSHONE RD NE,ALBUQUERQUE,NM,87111,sombradelmonte.aps.edu
+Elementary School,ALBUQUERQUE ,001,SUNSET VIEW ELEMENTARY,Linda,Townsend-Johnson,johnson_l@aps.edu,6121 PARADISE BLVD NW,ALBUQUERQUE,NM,87114,sunsetview.aps.edu
+Elementary School,ALBUQUERQUE ,001,SUSIE RAYOS MARMON ELEMENTARY,Aimee,Sewell,Aimee.Sewell@aps.edu,1800 72ND ST NW,ALBUQUERQUE,NM,87120,srmarmon.aps.edu
+Elementary School,ALBUQUERQUE ,001,SUSIE RAYOS MARMON ELEMENTARY,Maria,Cordero Lujan,cordero_m@aps.edu,1800 72ND ST NW,ALBUQUERQUE,NM,87120,srmarmon.aps.edu
+Elementary School,ALBUQUERQUE ,001,TIERRA ANTIGUA ELEMENTARY,Shelby,Sanchez,sanchez_shel@aps.edu,8121 RAINBOW BLVD NW,ALBUQUERQUE,NM,87114,tierraantigua.aps.edu
+Elementary School,ALBUQUERQUE ,001,TOMASITA ELEMENTARY,Valerie,Webb,WEBB_V@aps.edu,701 TOMASITA ST NE,ALBUQUERQUE,NM,87123,https://tomasita.aps.edu/
+Elementary School,ALBUQUERQUE ,001,VALLE VISTA ELEMENTARY,Jasmin,Maestas,Jasmin.Maestas@aps.edu,1700 MAE AV SW,ALBUQUERQUE,NM,87105,vallevista.aps.edu
+Elementary School,ALBUQUERQUE ,001,VENTANA RANCH ELEMENTARY,Paula,Garcia,garcia_pn@aps.edu,6801 VENTANA VILLAGE RD NW,ALBUQUERQUE,NM,87114,ventanaranch.aps.edu
+Elementary School,ALBUQUERQUE ,001,VENTANA RANCH ELEMENTARY,Vernadette Norman,Chavez,Vernadette.Chavez@aps.edu,6801 VENTANA VILLAGE RD NW,ALBUQUERQUE,NM,87114,ventanaranch.aps.edu
+Elementary School,ALBUQUERQUE ,001,WHERRY ELEMENTARY,Cicely,Ryan,Cicely.Ryan@aps.edu,BLDG 25000 - KAFB EAST,ALBUQUERQUE,NM,87116,https://wherry.aps.edu/
+Elementary School,ALBUQUERQUE ,001,WHERRY ELEMENTARY,Aimee,Sewell,Aimee.Sewell@aps.edu,BLDG 25000 - KAFB EAST,ALBUQUERQUE,NM,87116,https://wherry.aps.edu/
+Elementary School,ALBUQUERQUE ,001,WHITTIER ELEMENTARY,Bruce,Torres,Bruce.Torres@aps.edu,1110 QUINCY ST SE,ALBUQUERQUE,NM,87108,whittier.aps.edu
+Elementary School,ALBUQUERQUE ,001,WHITTIER ELEMENTARY,Kimberly,Finke,Kimberly.Finke@aps.edu,1110 QUINCY ST SE,ALBUQUERQUE,NM,87108,whittier.aps.edu
+Elementary School,ALBUQUERQUE ,001,WILLIAM W & JOSEPHINE DORN CHARTER  COMMUNITY SCHOOL,Diane,Thomas,thomas_d@aps.edu,1119 EDITH BLVD SE,ALBUQUERQUE,NM,87102,dorncharterschool.org
+Elementary School,ALBUQUERQUE ,001,WILLIAM W & JOSEPHINE DORN CHARTER  COMMUNITY SCHOOL,Paloma,Aranda,paloma@dorncharterschool.org,1119 EDITH BLVD SE,ALBUQUERQUE,NM,87102,dorncharterschool.org
+Elementary School,ALBUQUERQUE ,001,ZIA ELEMENTARY,Erika,Montano,Erika.Montano@aps.edu,440 JEFFERSON ST NE,ALBUQUERQUE,NM,87108,zia.aps.edu
+Elementary School,ALBUQUERQUE ,001,ZUNI ELEMENTARY,Glenn,Wilcox,wilcox@aps.edu,6300 CLAREMONT AVE NE,ALBUQUERQUE,NM,87110,zuni.aps.edu
+Elementary School,RESERVE ,002,RESERVE ELEMENTARY,Kayli,Ortiz,kortiz@reserveschools.com,24 MOUNTAINEER RD.,RESERVE,NM,87830,http://www.reserveschools.com
+Elementary School,QUEMADO ,003,DATIL ELEMENTARY,Cynthia,Orthman,corthman@quemadoschools.org,7395 HWY 12,DATIL,NM,87821,http://www.quemadoschools.org
+Elementary School,QUEMADO ,003,QUEMADO ELEMENTARY,Cynthia,Orthman,corthman@quemadoschools.org,HWY 60,QUEMADO,NM,87829,http://www.quemadoschools.org
+Elementary School,ROSWELL ,004,BERRENDO ELEMENTARY,JAMIE,HENDERSON,jhenderson@risd.k12.nm.us,505 WEST PINE LODGE RD,ROSWELL,NM,88201,http://www.risd.k12.nm.us/schools/elem/bes/index.cfm
+Elementary School,ROSWELL ,004,DEL NORTE ELEMENTARY,KYLE,ALSUP,kylealsup@risd.k12.nm.us,2701 NORTH GARDEN AVE,ROSWELL,NM,88201,http://www.risd.k12.nm.us/schools/elem/dne/index.cfm
+Elementary School,ROSWELL ,004,EAST GRAND PLAINS ELEMENTARY,CORTNEY,BUSBY,cbusby@risd.k12.nm.us,3773 EAST GRAND PLAINS,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/egp/home/index.cfm
+Elementary School,ROSWELL ,004,EL CAPITAN ELEMENTARY,AMANDA,SMITH,AmSmith@risd.k12.nm.us,2807 WEST BLAND ST,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/ece/index.cfm
+Elementary School,ROSWELL ,004,MILITARY HEIGHTS ELEMENTARY,KATIE,COOPER,KCooper@risd.k12.nm.us,1900 NORTH MICHIGAN,ROSWELL,NM,88201,http://www.risd.k12.nm.us/schools/elem/mhe/index.cfm
+Elementary School,ROSWELL ,004,MISSOURI AVE ELEMENTARY,STACEY,DAMON,sdamon@risd.k12.nm.us,700 W DEMING,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/mae/index.cfm
+Elementary School,ROSWELL ,004,MONTERREY ELEMENTARY,GREGORY,TORRES,gtorres@risd.k12.nm.us,910 WEST GAYLE ST,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/mon/index.cfm
+Elementary School,ROSWELL ,004,NANCY LOPEZ ELEMENTARY,DOLORES,INGRAM,dingram@risd.k12.nm.us,1208 EAST BLAND ST,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/nle/index.cfm
+Elementary School,ROSWELL ,004,PECOS ELEMENTARY,BARBARA,RYAN,bryan@risd.k12.nm.us,600 EAST HOBBS ST,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/pec/index.cfm
+Elementary School,ROSWELL ,004,SUNSET ELEMENTARY,DANA,TRUJILLO,dtrujillo@risd.k12.nm.us,606 WEST OCONNOR ROAD,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/sun/index.cfm
+Elementary School,ROSWELL ,004,VALLEY VIEW ELEMENTARY,TRAVIS,ACKERMAN,tackerman@risd.k12.nm.us,1400 S WASHINGTON,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/vve/index.cfm
+Elementary School,ROSWELL ,004,WASHINGTON AVE ELEMENTARY,DIXIE,VAN,dvan@risd.k12.nm.us,408 NORTH WASHINGTON AVE,ROSWELL,NM,88201,http://www.risd.k12.nm.us/schools/elem/wae/index.cfm
+Elementary School,DEXTER ,006,DEXTER ELEMENTARY,Bernadette,Aragon,aragonb@dexterdemons.org,400 WEST 1ST,DEXTER,NM,88230,http://www.dexterdemons.org
+Elementary School,LAKE ARTHUR ,007,LAKE ARTHUR ELEMENTARY,Kathleen,Gallaway,Kathleen.Gallaway@la-panthers.org,700 BROADWAY,LAKE ARTHUR,NM,88253,http://www.la-panthers.org
+Elementary School,CIMARRON ,008,CIMARRON ELEMENTARY,Alberta,Martinez,almartinez@cimarronschools.org,132 NORTH COLLISON AVE,CIMARRON,NM,87714,http://www.cimarronschools.org
+Elementary School,CIMARRON ,008,EAGLE NEST ELEMENTARY,Cindy,Carr,ccarr@cimarronschools.org,132 NORTH COLLISON,EAGLE NEST,NM,87718,http://www.cimarronschools.org
+Elementary School,RATON ,009,LONGFELLOW ELEMENTARY,Olga,Neurauter,olga.neurauter@ratonschools.com,700 EAST 4TH,RATON,NM,87740,https://www.ratonschools.com/leshome.html
+Elementary School,SPRINGER ,010,FORRESTER ELEMENTARY,Shelley,Bruns,shelleybruns@springerschools.org,311 MIRANDA,SPRINGER,NM,87747,http://www.springerschools.org
+Elementary School,SPRINGER ,010,WILFERTH ELEMENTARY,Shelley,Bruns,shelleybruns@springerschools.org,311 MIRANDA,SPRINGER,NM,87747,http://www.springerschools.org
+Elementary School,MAXWELL ,011,MAXWELL ELEMENTARY,CHRISTINA,HIDALGO,chidalgo@maxwellp12.com,4TH ST AND PARQUE,MAXWELL,NM,87728,http://www.maxwellp12.com
+Elementary School,CLOVIS ,012,ARTS ACADEMY AT BELLA VISTA,PHILLIP,LEMKE,phillip.lemke@clovis-schools.org,2900 CESAR CHAVEZ DR,CLOVIS,NM,88101,http://www.clovis-schools.org/bellavista
+Elementary School,CLOVIS ,012,BARRY ELEMENTARY,NICOLE,HAHN,nicole.hahn@clovis-schools.org,3401 THORNTON ST,CLOVIS,NM,88101,http://www.clovis-schools.org/barry
+Elementary School,CLOVIS ,012,CAMEO ELEMENTARY,SHELLY,SMITH,shelly.smith@clovis-schools.org,1500 CAMEO ST,CLOVIS,NM,88101,http://www.clovis-schools.org/cameo
+Elementary School,CLOVIS ,012,HIGHLAND ELEMENTARY,HAROLD,SACANE,harold.sacane@clovis-schools.org,100 EAST PLAINS ST,CLOVIS,NM,88101,http://www.clovis-schools.org/highland
+Elementary School,CLOVIS ,012,JAMES BICKLEY ELEMENTARY,KRISTI,HOPPER,kristi.hopper@clovis-schools.org,500 WEST 14TH ST,CLOVIS,NM,88101,http://www.clovis-schools.org/jamesbickley
+Elementary School,CLOVIS ,012,LA CASITA ELEMENTARY,LIDIA,DELAROSA,lidia.delarosa@clovis-schools.org,400 DAVIS ST,CLOVIS,NM,88101,http://www.clovis-schools.org/lacasita
+Elementary School,CLOVIS ,012,LOCKWOOD ELEMENTARY,RODOLFO,ARCEO,rodolfo.arceo@clovis-schools.org,1113 S. OAK ST,CLOVIS,NM,88101,http://www.clovis-schools.org/lockwood
+Elementary School,CLOVIS ,012,MESA ELEMENTARY,TORI,BLAIR,tori.blair@clovis-schools.org,4801 NORRIS,CLOVIS,NM,88101,http://www.clovis-schools.org/mesa
+Elementary School,CLOVIS ,012,PARKVIEW ELEMENTARY,CARRIE,GEISLER,Carrie.Geisler@clovis-schools.org,2501 E. 14TH ST,CLOVIS,NM,88101,http://www.clovis-schools.org/parkview
+Elementary School,CLOVIS ,012,SANDIA ELEMENTARY,ROXANNE,MITCHELL,Roxanne.Mitchell@clovis-schools.org,2801 LORE ST,CLOVIS,NM,88101,http://www.clovis-schools.org/sandia
+Elementary School,CLOVIS ,012,ZIA ELEMENTARY,KAYLENE,DAVIS,kaylene.davis@clovis-schools.org,2400 NORRIS ST,CLOVIS,NM,88101,http://www.clovis-schools.org/zia
+Elementary School,TEXICO ,013,TEXICO ELEMENTARY,Melissa,Hartley-Durham,mdurham@texicoschools.com,520 NORTH GRIFFIN,TEXICO,NM,88135,http://www.texicoschools.com
+Elementary School,MELROSE ,014,MELROSE ELEMENTARY,Morris,Gannon,egannon@melroseschools.org,100 MISSOURI AVE,MELROSE,NM,88124,http://www.melroseschools.org
+Elementary School,GRADY ,015,GRADY ELEMENTARY,Beverly,Edwards,medwards@gradyschool.com,100 FRANKLIN ST,GRADY,NM,88120,http://www.gradyschool.com
+Elementary School,FORT SUMNER ,016,FORT SUMNER ELEMENTARY,Steven,Dimitroff,sdimitroff@ftsumnerk12.com,1001 SUMNER AVE,FORT SUMNER,NM,88119,http://www.ftsumnerk12.com
+Elementary School,LAS CRUCES ,017,ALAMEDA ELEMENTARY,Veronica,Morales,vmorales@lcps.net,1325 N. ALAMEDA BLVD,LAS CRUCES,NM,88005,https://alameda.lcps.net/o/aes
+Elementary School,LAS CRUCES ,017,BOOKER T. WASHINGTON,Monica,Marquez,mmarquez3@lcps.net,755 EAST CHESTNUT AVE,LAS CRUCES,NM,88001,https://btw.lcps.net/o/btwes
+Elementary School,LAS CRUCES ,017,CENTRAL ELEMENTARY,Sabina,Aguilar,saguilar@lcps.net,150 NORTH ALAMEDA BLVD,LAS CRUCES,NM,88005,https://central.lcps.net/o/ces
+Elementary School,LAS CRUCES ,017,CESAR CHAVEZ ELEMENTARY,Amy,Moreman,amoreman@lcps.net,5250 N HOLMAN RD,LAS CRUCES,NM,88012,https://cesarchavez.lcps.net/o/cces
+Elementary School,LAS CRUCES ,017,COLUMBIA ELEMENTARY,Michelle,Valdez,mvaldez@lcps.net,4555 ELKS DR,LAS CRUCES,NM,88005,https://columbia.lcps.net/o/cbes
+Elementary School,LAS CRUCES ,017,CONLEE ELEMENTARY,Sonia,Campos,scampos@lcps.net,1701 BOSTON DR,LAS CRUCES,NM,88001,https://conlee.lcps.net/o/coes
+Elementary School,LAS CRUCES ,017,DESERT HILLS ELEMENTARY,Christy,Mitchell,cmitchel@lcps.net,280 NORTH ROADRUNNER PKWY,LAS CRUCES,NM,88011,https://deserthills.lcps.net/o/dhes
+Elementary School,LAS CRUCES ,017,DONA ANA ELEMENTARY,Cherie,Love,clove@lcps.net,5551 CAMINO DE FLORES,LAS CRUCES,NM,88001,https://donaana.lcps.net/o/daes
+Elementary School,LAS CRUCES ,017,EAST PICACHO ELEMENTARY,Michael,Chaires,mchaires@lcps.net,4450 NORTH VALLEY DR,LAS CRUCES,NM,88007,https://eastpicacho.lcps.net/o/epes
+Elementary School,LAS CRUCES ,017,FAIRACRES ELEMENTARY,Jana,Ward,jward1@lcps.net,4501 WEST PICACHO AVE,LAS CRUCES,NM,88007,https://fairacres.lcps.net/o/fes
+Elementary School,LAS CRUCES ,017,HERMOSA HEIGHTS ELEMENTARY,Victoria,Franks,vfranks@lcps.net,1655 EAST AMADOR AVE,LAS CRUCES,NM,88001,https://hermosa.lcps.net/o/hhes
+Elementary School,LAS CRUCES ,017,HIGHLAND ELEMENTARY,Esteban,Alvarez,ealvarez3@lcps.net,4201 EMERALD ST,LAS CRUCES,NM,88012,https://highland.lcps.net/o/hles
+Elementary School,LAS CRUCES ,017,HILLRISE ELEMENTARY,Jennifer,Martin,jmartin@lcps.net,1400 SOUTH CURNUTT ST,LAS CRUCES,NM,88011,https://hillrise.lcps.net/o/hres
+Elementary School,LAS CRUCES ,017,JORNADA ELEMENTARY,Colette,Martinez,colettem@lcps.net,3400 ELKS DR,LAS CRUCES,NM,88005,https://jornada.lcps.net/o/jes
+Elementary School,LAS CRUCES ,017,LOMA HEIGHTS ELEMENTARY,Teresa,Hernandez,thernandez@lcps.net,1600 EAST MADRID,LAS CRUCES,NM,88001,https://lomaheights.lcps.net/o/lhes
+Elementary School,LAS CRUCES ,017,MAC ARTHUR ELEMENTARY,Yuri,Castillo,ycastillo@lcps.net,655 N 4TH ST,LAS CRUCES,NM,88005,https://macarthur.lcps.net/o/mae
+Elementary School,LAS CRUCES ,017,MESILLA ELEMENTARY,Amanda,Castillo,amacastillo@lcps.net,2363 CALLE DEL SUR,LAS CRUCES,NM,88005,https://mesilla.lcps.net/o/mes
+Elementary School,LAS CRUCES ,017,MESILLA PARK ELEMENTARY,Diane,Barela,darchule@lcps.net,955 WEST UNION AVE,LAS CRUCES,NM,88005,https://mesillapark.lcps.net/o/mpes
+Elementary School,LAS CRUCES ,017,MONTE VISTA ELEMENTARY,De,Balderrama,dbalderrama@lcps.net,4675 PEACHTREE HILLS,LAS CRUCES,NM,88012,https://montevista.lcps.net/o/mves
+Elementary School,LAS CRUCES ,017,SONOMA ELEMENTARY,Karin,Hite,khite@lcps.net,4201 NORTHRISE DR,LAS CRUCES,NM,88011,https://sonoma.lcps.net/o/ses
+Elementary School,LAS CRUCES ,017,SUNRISE ELEMENTARY,Dora,Solis,dsolis@lcps.net,5300 N HOLMAN RD,LAS CRUCES,NM,88012,https://sunrise.lcps.net/o/sres
+Elementary School,LAS CRUCES ,017,TOMBAUGH ELEMENTARY,Lisa,Manes,lmanes@lcps.net,226 CARVER RD,LAS CRUCES,NM,88005,https://tombaugh.lcps.net/o/tes
+Elementary School,LAS CRUCES ,017,UNIVERSITY HILLS ELEMENTARY,Kelly,Mahres,kemahres@lcps.net,2005 SOUTH LOCUST ST,LAS CRUCES,NM,88001,https://universityhills.lcps.net/o/uhes
+Elementary School,LAS CRUCES ,017,VALLEY VIEW ELEMENTARY,Jason,Day,jday@lcps.net,915 E CALIFORNIA AVE,LAS CRUCES,NM,88001,https://valleyview.lcps.net/o/vves
+Elementary School,LAS CRUCES ,017,WHITE SANDS ELEMENTARY,James,Dickerson,jamdickerson@lcps.net,1 VIKING ST WHITE SANDS MISSILE RANGE,LAS CRUCES,NM,88002,https://wss.lcps.net/o/wss
+Elementary School,HATCH VALLEY ,018,GARFIELD ELEMENTARY,Louis,Meza,lmeza@hatchschools.net,8820 HWY 187,GARFIELD,NM,87936,www.hatchschools.net
+Elementary School,HATCH VALLEY ,018,RIO GRANDE ELEMENTARY,Adetha,Collins,dcollins@hatchschools.net,940 EAST HERRERA,HATCH,NM,87937,www.hatchschools.net
+Elementary School,GADSDEN ,019,ANTHONY ELEMENTARY,LORENA,LOPEZ,LOLOPEZ@GISD.K12.NM.US,609 CHURCH ST,ANTHONY,NM,88021,http://ae.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,BERINO ELEMENTARY,ROSA,CARNEVALE,rcarnevale@gisd.k12.nm.us,455 SHRODE RD,ANTHONY,NM,88021,http://be.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,CHAPARRAL ELEMENTARY,VICENTE,SANCHEZ,visanchez@gisd.k12.nm.us,300 LISA DR,CHAPARRAL,NM,88021,http://che.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,DESERT TRAIL ELEMENTARY,SONIA,BARAJAS,sbarajas@gisd.k12.nm.us,290 EAST LISA,CHAPARRAL,NM,88021,http://dt.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,DESERT VIEW ELEMENTARY,VERONICA,GONZALEZ,VGONZALEZ@GISD.K12.NM.US,1105 VALLE VISTA DR,SUNLAND PARK,NM,88063,http://dv.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,GADSDEN ELEMENTARY,GRACIELA,MARQUEZ,gmarquez@gisd.k12.nm.us,1440 HWY 478,SUNLAND PARK,NM,88063,http://ge.gisd.k12.nm.us/directions
+Elementary School,GADSDEN ,019,LA UNION ELEMENTARY,MARIA,BARRAZA,mbarraza@gisd.k12.nm.us,875 MERCANTILE,ANTHONY,NM,88021,http://lu.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,LOMA LINDA ELEMENTARY,CRESCENCIO,CARDONA,ccardona@gisd.k12.nm.us,1451 DONALDSON AVE,ANTHONY,NM,88021,http://ll.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,NORTH VALLEY ELEMENTARY,MICHAEL,KLECZKA,makleczka@gisd.k12.nm.us,300 CASCADE AVE,SAN MIGUEL,NM,88058,http://nv.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,RIVERSIDE ELEMENTARY,TERESITA,NAVARRO,tnavarro@gisd.k12.nm.us,4085 MCNUTT RD,SUNLAND PARK,NM,88063,http://rs.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,SANTA TERESA ELEMENTARY,SILVIA,WORD,SWORD@GISD.K12.NM.US,201 COMMERCIANTES,SANTA TERESA,NM,88008,http://ste.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,SUNRISE ELEMENTARY,LEON,SMITH,lsmith@gisd.k12.nm.us,1000 COUNTY LINE DR,ANTHONY,NM,88021,http://sr.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,VADO ELEMENTARY,CHERYL,COYLE,CCOYLE@GISD.K12.NM.US,330 HOLGUIN RD,VADO,NM,88072,http://ve.gisd.k12.nm.us
+Elementary School,GADSDEN ,019,YUCCA HEIGHTS ELEMENTARY,LAURA,URBINA,lpargas@gisd.k12.nm.us,580 ANGELINA BLVD,CHAPPARAL,NM,88081,http://yhe.gisd.k12.nm.us
+Elementary School,CARLSBAD ,020,DESERT WILLOW ELEMENTARY,Lynde,Longbine,lynde.longbine@carlsbadschools.net,2100 PRIMROSE ST,CARLSBAD,NM,88220,https://dw.carlsbadschools.net
+Elementary School,CARLSBAD ,020,EARLY CHILDHOOD EDUCATION CENTER,Jeannie,Dickson,Jeannie.Dickson@carlsbadschools.net,1801 WEST LEA ST.,CARLSBAD,NM,88220,https://ecec.carlsbadschools.net
+Elementary School,CARLSBAD ,020,MONTERREY ELEMENTARY,Jessica,Arenivas,jessica.arenivas@carlsbadschools.net,1600 JOHNSON ST,CARLSBAD,NM,88220,https://monterrey.carlsbadschools.net
+Elementary School,CARLSBAD ,020,OCOTILLO ELEMENTARY,Janice,Rodriguez,Janice.Rodriguez@carlsbadschools.net,2106 CAPTAIN WILLIAMS LN,CARLSBAD,NM,88220,https://oc.carlsbadschools.net
+Elementary School,CARLSBAD ,020,SUNSET ELEMENTARY,Yolanda,Pirtle,Yolanda.Pirtle@carlsbadschools.net,923 NORTH WALTER ST,CARLSBAD,NM,88220,https://sunset.carlsbadschools.net
+Elementary School,ARTESIA ,022,CENTRAL ELEMENTARY,Kathryn,DeHoyos,kdehoyos@bulldogs.org,405 SOUTH SIXTH,ARTESIA,NM,88210,https://central.bulldogs.org
+Elementary School,ARTESIA ,022,GRAND HEIGHTS EARLY CHILDHOOD,Marsha,Molina,mmolina@bulldogs.org,2302 WEST GRAND AVE,ARTESIA,NM,88210,https://grandheights.bulldogs.org
+Elementary School,ARTESIA ,022,HERMOSA ELEMENTARY,Kaci,Whitmire,kwhitmire@bulldogs.org,601 HERMOSA DR,ARTESIA,NM,88210,https://hermosa.bulldogs.org
+Elementary School,ARTESIA ,022,ROSELAWN ELEMENTARY,Leslie,Catano,lcatano@bulldogs.org,600 NORTH ROSELAWN AVE,ARTESIA,NM,88210,https://roselawn.bulldogs.org
+Elementary School,ARTESIA ,022,YESO ELEMENTARY,Rebecca,Worley,lworley@bulldogs.org,1812 CENTRE AVE,ARTESIA,NM,88210,https://yeso.bulldogs.org
+Elementary School,ARTESIA ,022,YUCCA ELEMENTARY,Amy,Johnson,ajohnson@bulldogs.org,900 NORTH 13TH ST,ARTESIA,NM,88210,https://yucca.bulldogs.org
+Elementary School,SILVER CITY ,023,CLIFF ELEMENTARY,Janean,Garney,jgarney@silverschools.org,622 STATE HWY 211,CLIFF,NM,88028,http://www.silverschools.org
+Elementary School,SILVER CITY ,023,JOSE BARRIOS ELEMENTARY,Robert,Trujillo,btrujillo@silverschools.org,1625 LITTLE WALNUT,SILVER CITY,NM,88061,http://www.silverschools.org
+Elementary School,SILVER CITY ,023,SIXTH STREET ELEMENTARY,Robert,Trujillo,btrujillo@silverschools.org,405 WEST 6TH,SILVER CITY,NM,88061,http://www.silverschools.org
+Elementary School,COBRE ,024,BAYARD ELEMENTARY,John,Olson,jolson@cobreschools.org,100 PARK ST,BAYARD,NM,88023,http://cobrebayard.sharpschool.net
+Elementary School,COBRE ,024,BAYARD ELEMENTARY,Suzanne,Chavira,schavira@cobre.k12.nm.us,100 PARK ST,BAYARD,NM,88023,http://cobrebayard.sharpschool.net
+Elementary School,COBRE ,024,CENTRAL ELEMENTARY,Roxanne,Ogas,rogas@cobreschools.org,211 CEDAR ST,SANTA CLARA,NM,88026,http://cobrecentral.sharpschool.net
+Elementary School,COBRE ,024,HURLEY ELEMENTARY,Laverne,Martinez,LaVerneM@cobre.k12.nm.us,300 CARASCO AVE,HURLEY,NM,88043,http://cobrehurley.sharpschool.net
+Elementary School,COBRE ,024,SAN LORENZO ELEMENTARY,Shay,Biebelle,sbiebelle@cobreschools.org,5 GALAZ ST,SAN LORENZO,NM,88041,http://cobresanlorenzo.sharpschool.net
+Elementary School,SANTA ROSA ,025,RITA A. MARQUEZ ELEMENTARY,Erica,Padilla,epadilla@srlions.com,MAIN ST,ANTON CHICO,NM,87711,https://www.srlions.com/
+Elementary School,SANTA ROSA ,025,SANTA ROSA ELEMENTARY,Sharla,Trujillo,strujillo@srlions.com,658 5TH ST,SANTA ROSA,NM,88435,https://www.srlions.com/
+Elementary School,VAUGHN ,026,VAUGHN ELEMENTARY,PamelaAnn,Roybal,proybal@vaughn.k12.nm.us,101 4TH,VAUGHN,NM,88353,https://www.vaughnschools.org/
+Elementary School,LORDSBURG ,029,CENTRAL ELEMENTARY,Raquel,Montiel,rmontiel@lmsed.org,1352 HARDIN ST,LORDSBURG,NM,88045,http://www.lmsed.org
+Elementary School,LORDSBURG ,029,R.V.TRAYLOR ELEMENTARY,Zulema,Gutierrez,zgutierrez@lmsed.org,500 OWNBY,LORDSBURG,NM,88045,http://www.lmsed.org
+Elementary School,ANIMAS ,030,ANIMAS ELEMENTARY,Kathy,Adams,kadams@animask12.net,1 PANTHER DR,ANIMAS,NM,88020,http://www.animask12.net
+Elementary School,LOVINGTON ,031,BEN ALEXANDER ELEMENTARY,MARGARITA,PINON,margaritapinon@lovingtonschools.net,1400 SOUTH SIXTH,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+Elementary School,LOVINGTON ,031,JEFFERSON ELEMENTARY,JESIKA,VUICICH,jesikavuicich@lovingtonschools.net,300 WEST JEFFERSON AVE,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+Elementary School,LOVINGTON ,031,LEA ELEMENTARY,PERRI,HATHORN,perrihathorn@lovingtonschools.net,1202 WEST BIRCH AVE,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+Elementary School,LOVINGTON ,031,LLANO ELEMENTARY,TANYA,CARTWRIGHT,tanyacartwright@lovingtonschools.net,1000 SOUTH FIRST,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+Elementary School,EUNICE ,032,METTIE JORDAN ELEMENTARY,CAREY,LINDNER,clindner@eunice.org,1715  AVENUE M,EUNICE,NM,88231,www.eunice.org
+Elementary School,HOBBS ,033,BOOKER T. WASHINGTON ELEMENTARY,CAROLYN,JEFFERSON,jeffersonc@hobbsschools.net,1200 EAST HUMBLE,HOBBS,NM,88240,http://btw.hobbsschools.net/
+Elementary School,HOBBS ,033,BROADMOOR ELEMENTARY,GALINDA,EVERHART,EverhartG@hobbsschools.net,1500 NORTH HOUSTON,HOBBS,NM,88240,http://bdm.hobbsschools.net/
+Elementary School,HOBBS ,033,COLLEGE LANE ELEMENTARY,HEATHER,CAMPBELL,campbellh@hobbsschools.net,2000 COLLEGE LN,HOBBS,NM,88240,http://cle.hobbsschools.net/
+Elementary School,HOBBS ,033,CORONADO ELEMENTARY,LAURA,OTTO,ottol@hobbsschools.net,2600 NORTH BRAZOS,HOBBS,NM,88240,http://cor.hobbsschools.net/
+Elementary School,HOBBS ,033,EDISON ELEMENTARY,PATRICIA,DURAN,DuranP@hobbsschools.net,501 EAST GYPSY,HOBBS,NM,88240,http://edi.hobbsschools.net/
+Elementary School,HOBBS ,033,JEFFERSON ELEMENTARY,ARACELI,ARMENDARIZ,armendariza@hobbsschools.net,1200 WEST PARK,HOBBS,NM,88240,http://jef.hobbsschools.net/
+Elementary School,HOBBS ,033,MILLS ELEMENTARY,JENNIFER,CARLSON,CarlsonJ@hobbsschools.net,200 WEST COPPER,HOBBS,NM,88240,http://mil.hobbsschools.net/
+Elementary School,HOBBS ,033,MURRAY ELEMENTARY,NICHOLAS,BARTLETT,bartlettni@hobbsschools.net,510 N DAL PASO ST,HOBBS,NM,88240,http://mur.hobbsschools.net/
+Elementary School,HOBBS ,033,SANGER ELEMENTARY,KELLY,INMAN,InmanK@hobbsschools.net,2020 NORTH ADOBE,HOBBS,NM,88240,http://san.hobbsschools.net/
+Elementary School,HOBBS ,033,SOUTHERN HEIGHTS ELEMENTARY,AZENETH,COTTINGHAM,cottinghama@hobbsschools.net,101 EAST TEXAS,HOBBS,NM,88240,http://soh.hobbsschools.net/
+Elementary School,HOBBS ,033,SOUTHERN HEIGHTS ELEMENTARY,DIANA,SALINAS,SalinasD@hobbsschools.net,101 EAST TEXAS,HOBBS,NM,88240,http://soh.hobbsschools.net/
+Elementary School,HOBBS ,033,STONE ELEMENTARY,JOE ANNE,CLARKSON,Clarksonj@hobbsschools.net,1015 CALLE SUR,HOBBS,NM,88240,http://sto.hobbsschools.net/
+Elementary School,HOBBS ,033,TAYLOR ELEMENTARY,MELANIE,KJERIMI,kjerimim@hobbsschools.net,1520 N. BRECKON,HOBBS,NM,88240,http://tay.hobbsschools.net/
+Elementary School,HOBBS ,033,WILL ROGERS ELEMENTARY,GUADALUPE,SALDANA,saldanag@hobbsschools.net,300 EAST CLINTON,HOBBS,NM,88240,http://wre.hobbsschools.net/
+Elementary School,JAL ,034,JAL ELEMENTARY,Karen,Orozco-Komar,karen.komar@jalnm.org,307 EAST UTAH,JAL,NM,88252,http://www.jalnm.org
+Elementary School,TATUM ,035,TATUM ELEMENTARY,Gregory,Slover,gslover@tatumschools.org,115 WEST 3RD ST,TATUM,NM,88267,http://www.tatumschools.org
+Elementary School,TATUM ,035,TATUM ELEMENTARY,Robn,Hogue,rhogue@tatumschools.org,115 WEST 3RD ST,TATUM,NM,88267,http://www.tatumschools.org
+Elementary School,RUIDOSO ,036,WHITE MOUNTAIN ELEMENTARY,George,Speck,speckm@ruidososchools.org,203 WHITE MOUNTAIN DR,RUIDOSO,NM,88345,http://www.ruidososchools.org/whitemountainelementary_home.aspx
+Elementary School,CARRIZOZO ,037,CARRIZOZO ELEMENTARY,Elizabeth,Barela,eli.barela@carrizozogrizzlies.org,800 D AVE,CARRIZOZO,NM,88301,https://www.carrizozogrizzlies.org/
+Elementary School,HONDO VALLEY ,039,HONDO ELEMENTARY,Patricia,Nesbitt,patti.nesbitt@hondoeagles.org,111 DON PABLO LANE,HONDO,NM,88336,www.hondoeagles.org
+Elementary School,CAPITAN ,040,CAPITAN ELEMENTARY,Briana,Gibson,briana.gibson@capitantigers.org,150 SOUTH FOREST AVE,CAPITAN,NM,88316,https://www.capitantigers.org
+Elementary School,LOS ALAMOS ,041,ASPEN ELEMENTARY,LIZ,JANUSZ,l.janusz@laschools.net,2182 33RD ST,LOS ALAMOS,NM,87544,http://laschools.net/aspen
+Elementary School,LOS ALAMOS ,041,BARRANCA MESA ELEMENTARY,DAVINE,JONES,davine.jones@laschools.net,57 LOMA DEL ESCOLAR,LOS ALAMOS,NM,87544,http://laschools.net/barranca
+Elementary School,LOS ALAMOS ,041,CHAMISA ELEMENTARY,CRAIG,WASHNOK,c.washnok@laschools.net,301 MEADOW LN,WHITE ROCK,NM,87547,http://laschools.net/chamisa
+Elementary School,LOS ALAMOS ,041,MOUNTAIN ELEMENTARY,SUZANNE,LYNNE,s.lynne@laschools.net,2280 NORTH RD,LOS ALAMOS,NM,87544,http://laschools.net/mountain
+Elementary School,LOS ALAMOS ,041,PINON ELEMENTARY,IVANNA,AUSTELL,iv.austell@laschools.net,90 GRAND CANYON DR,WHITE ROCK,NM,87547,http://laschools.net/pinon
+Elementary School,DEMING ,042,BATAAN ELEMENTARY,Ivy,Baca,ivy.baca@demingps.org,2200 HWY 418 SW,DEMING,NM,88030,http://bataan.demingps.org
+Elementary School,DEMING ,042,BELL ELEMENTARY,Melanie,Rinehart,melanie.rinehart@demingps.org,1000 EAST MAPLE,DEMING,NM,88030,http://bell.demingps.org
+Elementary School,DEMING ,042,CHAPARRAL ELEMENTARY,Kathy,Zimmermann,kathy.zimmermann@demingps.org,1400 EAST HOLLY,DEMING,NM,88030,http://chaparral.demingps.org
+Elementary School,DEMING ,042,COLUMBUS ELEMENTARY,Viridiana,Chacon,viridiana.sanchez@demingps.org,7450 ALTURA RD. SE,COLUMBUS,NM,88029,http://columbus.demingps.org
+Elementary School,DEMING ,042,MEMORIAL ELEMENTARY,Caleb,Kartchner,caleb.kartchner@demingps.org,1000 SOUTH 10TH ST,DEMING,NM,88030,http://memorial.demingps.org
+Elementary School,DEMING ,042,RUBEN S. TORRES ELEMENTARY,Constance,Maag,connie.maag@demingps.org,1910 8TH ST NW,DEMING,NM,88030,http://rst.demingps.org
+Elementary School,GALLUP ,043,CATHERINE A. MILLER ELEMENTARY,Khristopher,Latson,klatson@gmcs.org,6102 CHALLENGER RD,CHURCH ROCK,NM,87311,https://cme.gmcs.org/
+Elementary School,GALLUP ,043,CHEE DODGE ELEMENTARY,Tammy,Somers,tsomers@gmcs.org,641 N HWY 491,YAH TA HEY,NM,87375,https://cde.gmcs.org/
+Elementary School,GALLUP ,043,DAVID SKEET ELEMENTARY,Kyron,White,kwhite2@gmcs.org,RT 45 JONES RANCH RD,VANDERWAGEN,NM,87326,https://dse.gmcs.org/
+Elementary School,GALLUP ,043,DAVID SKEET ELEMENTARY,Amanda,Clawson,aclawso1@gmcs.org,RT 45 JONES RANCH RD,VANDERWAGEN,NM,87326,https://dse.gmcs.org/
+Elementary School,GALLUP ,043,DEL NORTE ELEMENTARY,Cynthia,Mowrer,cmowrer@gmcs.org,700 WEST WILSON,GALLUP,NM,87301,https://dne.gmcs.org/
+Elementary School,GALLUP ,043,INDIAN HILLS ELEMENTARY,Rebecca,Apel,bapel@gmcs.org,3604 CINIZA DR,GALLUP,NM,87301,https://ihe.gmcs.org/
+Elementary School,GALLUP ,043,JEFFERSON ELEMENTARY,Sasha,Blanco-Ramirez,sblanco@gmcs.org,300 MOLLICA DR,GALLUP,NM,87301,https://jfe.gmcs.org/
+Elementary School,GALLUP ,043,JEFFERSON ELEMENTARY,Rachel,Rodriguez,rrodrigu@gmcs.org,300 MOLLICA DR,GALLUP,NM,87301,https://jfe.gmcs.org/
+Elementary School,GALLUP ,043,LINCOLN ELEMENTARY,Kelley,Fitzmaurice,kfitzmau@gmcs.org,502 OLD ZUNI RD,GALLUP,NM,87301,https://lne.gmcs.org/
+Elementary School,GALLUP ,043,NAVAJO ELEMENTARY,Joshua,Stepney,Joshua.Stepney@aps.edu,123 CEDAR AVE,NAVAJO,NM,87328,https://nve.gmcs.org/
+Elementary School,GALLUP ,043,RAMAH ELEMENTARY,Jody,Alexander,jalexander@gmcs.org,27 LEWIS ST,RAMAH,NM,87321,https://rae.gmcs.org/
+Elementary School,GALLUP ,043,RAMAH ELEMENTARY,Oscar,Ontiveros,NULL,27 LEWIS ST,RAMAH,NM,87321,https://rae.gmcs.org/
+Elementary School,GALLUP ,043,RED ROCK ELEMENTARY,Eva,Prieto,eprieto@gmcs.org,1305 RED ROCK DR,GALLUP,NM,87301,https://rre.gmcs.org/
+Elementary School,GALLUP ,043,STAGECOACH ELEMENTARY,Jessica,Dooley,jdooley@gmcs.org,1498 FREEDOM DR,GALLUP,NM,87301,https://sce.gmcs.org/
+Elementary School,GALLUP ,043,THOREAU ELEMENTARY,Kandas,Gonzalez,kgonzalez@gmcs.org,#6 FOURTH AVE,THOREAU,NM,87323,https://the.gmcs.org/
+Elementary School,GALLUP ,043,TOBE TURPEN ELEMENTARY,Noel,Thomas,nromero@gmcs.org,3310 MANUELITO,GALLUP,NM,87301,https://tue.gmcs.org/
+Elementary School,GALLUP ,043,TOHATCHI ELEMENTARY,Robin,Holder,rholder@gmcs.org,100 CHUSKA RD,TOHATCHI,NM,87325,https://toe.gmcs.org/
+Elementary School,GALLUP ,043,TWIN LAKES ELEMENTARY,Elna,Go,ego@gmcs.org,19 MI. N HWY 491 HC 30,GALLUP,NM,87301,https://tle.gmcs.org/
+Elementary School,MORA ,044,MORA ELEMENTARY,Tracy,Alcon,talcon@mora.k12.nm.us,HWY 518 AND RANGER DR,MORA,NM,87732,https://www.mora.k12.nm.us
+Elementary School,ALAMOGORDO ,046,BUENA VISTA ELEMENTARY,Manuela,Sanchez,Manuela.Sanchez@alamogordoschools.org,2600 19TH ST,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+Elementary School,ALAMOGORDO ,046,DESERT STAR ELEMENTARY,Asst,Principal,principalasst@ruidososchools.org,400 S WASHINGTON AVE,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+Elementary School,ALAMOGORDO ,046,HOLLOMAN ELEMENTARY,Kathy,Roush,kathy.roush@alamogordoschools.org,750 ARNOLD,HOLLOMAN AFB,NM,88330,http://www.aps4kids.org
+Elementary School,ALAMOGORDO ,046,NORTH ELEMENTARY,Karen,Middlebrooks,karen.middlebrooks@alamogordoschools.org,1300 NORTH FLORIDA,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+Elementary School,ALAMOGORDO ,046,SIERRA ELEMENTARY,Mary,Brabson,mary.brabson@alamogordoschools.org,2211 PUERTO RICO AVE,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+Elementary School,ALAMOGORDO ,046,SUNSET HILLS ELEMENTARY,Catherine,Diaz,catherine.diaz@alamogordoschools.org,2410 10TH ST,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+Elementary School,ALAMOGORDO ,046,YUCCA ELEMENTARY,Christina,Trujillo,christina.trujillo@alamogordoschools.org,310 DALE SCOTT BLVD,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+Elementary School,TULAROSA ,047,TULAROSA ELEMENTARY,Jennifer,Lockner,jennifer.lockner@tularosak12.us,404 1ST STREET,TULAROSA,NM,88352,https://www.tularosak12.us
+Elementary School,TULAROSA ,047,TULAROSA INTERMEDIATE,Amanda,Allen,amanda.allen@tularosak12.us,304 1ST STREET,TULAROSA,NM,88352,https://www.tularosak12.us
+Elementary School,CLOUDCROFT ,048,CLOUDCROFT ELEMENTARY,Robyn,Cook,robyn.cook@cmsbears.org,810 JAMES CANYON HWY,CLOUDCROFT,NM,88317,http://www.cmsbears.org
+Elementary School,TUCUMCARI ,049,TUCUMCARI ELEMENTARY,Tonya,Hodges,t.hodges@tucumcarischools.com,1623 SOUTH 9TH ST,TUCUMCARI,NM,88401,https://tucumcarischools.com/
+Elementary School,LOGAN ,051,LOGAN ELEMENTARY,Crystal,Burns,cburns@loganschool.net,301 NORTH 2ND ST,LOGAN,NM,88426,http://www.loganschool.net
+Elementary School,SAN JON ,052,SAN JON ELEMENTARY,Sharla,Rusk,srusk@sanjonschools.com,7TH AND ELM STREETS,SAN JON,NM,88434,http://www.sanjonschools.com
+Elementary School,DULCE ,054,DULCE ELEMENTARY,ROBERT,COOKE,bcooke@dulceschools.com,MUNDO DR,DULCE,NM,87528,http://www.dulceschools.com
+Elementary School,ESPANOLA ,055,ABIQUIU ELEMENTARY,Victoria,Garcia,victoria.garcia@k12espanola.org,HWY 84/285 213412,ABIQUIU,NM,87510,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,ALCALDE ELEMENTARY,Michelle,Martinez,micheller.martinez@k12espanola.org,STATE RD 68 COUNTY RD 138A,ESPANOLA,NM,87511,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,DIXON ELEMENTARY,Alice,Gonzales,alice.gonzales@k12espanola.org,220 NEW MEXICO HIGHWAY 75,DIXON,NM,87527,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,EUTIMIO SALAZAR ELEMENTARY,Claudia,Coriz,claudia.coriz@k12espanola.org,1000 ZUNI LN,ESPANOLA,NM,87532,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,HERNANDEZ ELEMENTARY,Brandon,Gurule,brandon.gurule@k12espanola.org,STATE ROAD 84/285 #1934B,ESPANOLA,NM,87532,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,JAMES RODRIGUEZ ELEMENTARY,Nancy,Garcia-Martinez,nancy.martinez@k12espanola.org,420 NORTH CORONADO AVE,ESPANOLA,NM,87532,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,LOS NINOS ELEMENTARY,Vanessa,Trujillo,vanessa.trujillo@k12espanola.org,323 NORTH CORONADO AVE,ESPANOLA,NM,87532,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,SAN JUAN ELEMENTARY,Monique,Garcia,monique.garcia@k12espanola.org,411 STATE RD 74,OHKAY OWINGEH,NM,87566,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,TONY QUINTANA ELEMENTARY,Angelica,Martinez,angelica.martinez@k12espanola.org,18670 US 84/285,ESPANOLA,NM,87532,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,VELARDE ELEMENTARY,Deborah,Branchal,deborah.branchal@k12espanola.org,STATE ROAD 68 COUNTY ROAD 51 #14,VELARDE,NM,87582,http://www.k12espanola.org/schools
+Elementary School,ESPANOLA ,055,VELARDE ELEMENTARY,Dorothy,Valdez,dorothy.valdez@k12espanola.org,STATE ROAD 68 COUNTY ROAD 51 #14,VELARDE,NM,87582,http://www.k12espanola.org/schools
+Elementary School,JEMEZ MTN ,056,GALLINA ELEMENTARY,Scott,Meihack,meihack_s@jmsd.k12.nm.us,1903 STATE HIGHWAY 96,GALLINA,NM,87017,http://www.jmsk12.com/gallinaelementary/
+Elementary School,JEMEZ MTN ,056,LYBROOK ELEMENTARY,Scott,Meihack,meihack_s@jmsd.k12.nm.us,State Rd 550 HCR 17,CUBA,NM,87013,http://www.jmsk12.com/lybrookelementary/
+Elementary School,JEMEZ MTN ,056,LYBROOK ELEMENTARY,Archie,Jacquez,jacquez_arc@jmsd.k12.nm.us,State Rd 550 HCR 17,CUBA,NM,87013,http://www.jmsk12.com/lybrookelementary/
+Elementary School,PORTALES ,057,BROWN EARLY CHILDHOOD CENTER,Melanie,Skinner,mskinner@portalesschools.com,520 WEST 5TH ST,PORTALES,NM,88130,http://www.portalesschools.com/brown_early_childhood_center
+Elementary School,PORTALES ,057,JAMES ELEMENTARY,Shayne,Lopez,slopez@portalesschools.com,701 WEST 18TH ST,PORTALES,NM,88130,http://www.portalesschools.com/james_elementary_school
+Elementary School,PORTALES ,057,LINDSEY-STEINER ELEMENTARY,Ginger,Fowler,ggolden@portalesschools.com,1000 NORTH AVE M,PORTALES,NM,88130,http://www.portalesschools.com/lindsey_steiner_elementary
+Elementary School,PORTALES ,057,VALENCIA ELEMENTARY,Ofelia,Alvarez,oalvarez@portalesschools.com,1415 SOUTH GLOBE,PORTALES,NM,88130,http://www.portalesschools.com/valencia_elementary_school
+Elementary School,ELIDA ,058,ELIDA ELEMENTARY,Waverly,Criswell,wcriswell@elidaschools.net,103 NORTH CHURCH,ELIDA,NM,88116,http://www.elidaschools.net
+Elementary School,FLOYD ,059,FLOYD ELEMENTARY,Adam,Terry,aterry@floydbroncos.com,1564 NM 267,FLOYD,NM,88118,http://www.floydbroncos.com
+Elementary School,DORA ,060,DORA ELEMENTARY,Amanda,Harris,aharris@doraschools.com,100 SCHOOL ST,DORA,NM,88115,http://www.doraschools.com
+Elementary School,DORA ,060,DORA ELEMENTARY,Brandon,Hays,bhays@doraschools.com,100 SCHOOL ST,DORA,NM,88115,http://www.doraschools.com
+Elementary School,BERNALILLO ,061,ALGODONES ELEMENTARY,Rosangela,Montoya,rmontoya@bernalillops.org,1300 HWY 313,ALGODONES,NM,87001,https://www.bernalillo-schools.org
+Elementary School,BERNALILLO ,061,BERNALILLO ELEMENTARY,Danielle,Sena,dsena@bernalillops.org,301 CALLE DEL CARBON,BERNALILLO,NM,87004,https://www.bernalillo-schools.org
+Elementary School,BERNALILLO ,061,COCHITI ELEMENTARY,Molly,Gurule,mogurule@bernalillops.org,800 QUAIL HILL TRAIL,PENA BLANCA,NM,87041,https://www.bernalillo-schools.org
+Elementary School,BERNALILLO ,061,PLACITAS ELEMENTARY,Joseph,Lepre,jlepre@bernalillops.org,5 CALLE DEL CARBON,BERNALILLO,NM,87004,https://www.bernalillo-schools.org
+Elementary School,BERNALILLO ,061,SANTO DOMINGO ELEMENTARY,Teresa,Little-Gardiner,tgardiner@bernalillops.org,100 HWY 22 WEST,SANTO DOMINGO PUEBLO,NM,87052,https://www.bernalillo-schools.org
+Elementary School,BERNALILLO ,061,WD CARROLL ELEMENTARY,Sarah,Armstrong,sarmstrong@bernalillops.org,842 CAMINO DON TOMAS,BERNALILLO,NM,87004,https://www.bernalillo-schools.org
+Elementary School,CUBA ,062,CUBA ELEMENTARY,Olivia,Casaus,ocasaus@cuba.k12.nm.us,50 COUNTY RD 13 BLDG 51,CUBA,NM,87013,http://cuba.k12.nm.us/schools/cuba_elementary_school
+Elementary School,CUBA ,062,CUBA ELEMENTARY,Mary Lou,Gooris,NULL,50 COUNTY RD 13 BLDG 51,CUBA,NM,87013,http://cuba.k12.nm.us/schools/cuba_elementary_school
+Elementary School,CUBA ,062,CUBA ELEMENTARY,Judy,Atencio,jatencio@cuba.k12.nm.us,50 COUNTY RD 13 BLDG 51,CUBA,NM,87013,http://cuba.k12.nm.us/schools/cuba_elementary_school
+Elementary School,JEMEZ VALLEY ,063,JEMEZ VALLEY ELEMENTARY,TERRIAN,BENN,tbenn@gmail.com,8501 HWY 4,JEMEZ PUEBLO,NM,87024,https://www.jvps.org/o/jve
+Elementary School,JEMEZ VALLEY ,063,SAN DIEGO RIVERSIDE,CLIFFORD,TOMPSON,clifftompson@yahoo.com,504 MISSION RD,JEMEZ PUEBLO,NM,87024,https://sdrjvps.sharpschool.com/
+Elementary School,AZTEC ,064,LYDIA RIPPEY ELEMENTARY,Samantha ,Nelson,lrnelssa@aztecschools.com,401 RIO PECOS RD,AZTEC,NM,87410,http://www.lrelementary.com
+Elementary School,AZTEC ,064,MCCOY AVENUE ELEMENTARY,Phyllis,Cox,mccoxph@aztecschools.com,901 NORTH MCCOY AVE,AZTEC,NM,87410,http://www.mccoyschool.com
+Elementary School,AZTEC ,064,MOSAIC ACADEMY CHARTER,Amanda,Knight,knighta@mosaic.k12.nm.us,721 SOUTH MAIN STREET,AZTEC,NM,87410,http://mosaicacademy.net
+Elementary School,AZTEC ,064,PARK AVENUE ELEMENTARY,Jessica,Sledzinski,pasledje@aztecschools.com,507 SOUTH PARK AVE,AZTEC,NM,87410,http://www.prideatpark.com
+Elementary School,FARMINGTON ,065,ANIMAS ELEMENTARY,Trisha,Bejar,tbejar@fms.k12.nm.us,1612 HUTTON AVE,FARMINGTON,NM,87401,https://animas.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,APACHE ELEMENTARY,Davina,Terry,dterry@fms.k12.nm.us,700 WEST APACHE,FARMINGTON,NM,87401,https://apache.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,BLUFFVIEW ELEMENTARY,Mary,Ledek,mledek@fms.k12.nm.us,1204 CAMINO REAL,FARMINGTON,NM,87401,https://bluffview.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,COUNTRY CLUB ELEMENTARY,Terrill,Henegar,thenegar@fms.k12.nm.us,5300 FOOTHILLS DR,FARMINGTON,NM,87401,https://countryclub.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,ESPERANZA ELEMENTARY,Virginia,Hedges,vhedges@fms.k12.nm.us,4501 WILDFLOWER DR,FARMINGTON,NM,87401,https://esperanza.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,LADERA DEL NORTE ELEMENTARY,Heather,Henegar,hhenegar@fms.k12.nm.us,308 EAST 35TH ST,FARMINGTON,NM,87401,https://ladera.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,MCCORMICK ELEMENTARY,Lyn,White,lwhite@fms.k12.nm.us,701 MC CORMICK RD,FARMINGTON,NM,87401,https://mccormick.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,MESA VERDE ELEMENTARY,Pamela,Schritter,pschritter@fms.k12.nm.us,3801 COLLEGE BLVD,FARMINGTON,NM,87401,https://mesaverde.fms.k12.nm.us
+Elementary School,FARMINGTON ,065,NORTHEAST ELEMENTARY,Candace,Young,cyoung@fms.k12.nm.us,1400 EAST 23RD,FARMINGTON,NM,87401,https://northeast.fms.k12.nm.us
+Elementary School,BLOOMFIELD ,066,BLANCO ELEMENTARY,Lynda,Spencer,lspencer@bsin.k12.nm.us,7313 US HWY 64,BLOOMFIELD,NM,87413,https://bfsdblanco.ss19.sharpschool.com/
+Elementary School,BLOOMFIELD ,066,BLOOMFIELD EARLY CHILDHOOD CENTER,Ronda,Sharp,rsharp@bsin.k12.nm.us,310 NORTH LAJARA ST,BLOOMFIELD,NM,87413,https://bfsdbecc.ss19.sharpschool.com/
+Elementary School,BLOOMFIELD ,066,CENTRAL PRIMARY,Jena,Arambula,jarambula@bsin.k12.nm.us,310 WEST SYCAMORE,BLOOMFIELD,NM,87413,https://bfsdcp.ss19.sharpschool.com/
+Elementary School,BLOOMFIELD ,066,NAABA ANI ELEMENTARY,Jennifer,Griffith,jegriffith@bsin.k12.nm.us,1201 NORTH FIRST ST,BLOOMFIELD,NM,87413,https://bfsdnaaba.ss19.sharpschool.com/
+Elementary School,CENTRAL ,067,DREAM DINE CHARTER SCHOOL,Nadine,Chatto,nadine@dreamdine.org,HIGHWAY 64 MILEPOST 23  NW,SHIPROCK,NM,87420,www.dreamdine.org
+Elementary School,CENTRAL ,067,EVA B STOKELY ELEMENTARY,ROXANNE,LEE,leero@centralschools.org,WEST HWY 64,SHIPROCK,NM,87420,https://www.ccsdnm.org/evabstokely
+Elementary School,CENTRAL ,067,KIRTLAND ELEMENTARY,JEROME,BOUSHEE,bousj@centralschools.org,30 CR 6446,KIRTLAND,NM,87417,https://www.ccsdnm.org/kirtlandelementary
+Elementary School,CENTRAL ,067,MESA ELEMENTARY,GINA,JONES,joneg@centralschools.org,N HWY 491 MESA SCHOOL RD,SHIPROCK,NM,87420,https://www.ccsdnm.org/mesaelementary
+Elementary School,CENTRAL ,067,NASCHITTI ELEMENTARY,CANDACE,KEAMS,keamc@centralschools.org,US HWY 491,SHEEP SPRINGS,NM,87364,https://www.ccsdnm.org/naschittielementary
+Elementary School,CENTRAL ,067,NIZHONI ELEMENTARY,PANDORA,WATCHMAN,watcp@centralschools.org,HWY 491,SHIPROCK,NM,87420,https://www.ccsdnm.org/nizhonielementary
+Elementary School,WEST LAS VEGAS ,068,DON CECILIO MARTINEZ ELEMENTARY,April,Ortiz,april_ortiz@wlvs.org,412 SANTA FE ST,LAS VEGAS,NM,87701,https://www.wlvs.k12.nm.us/o/wlvs/page/don-cecilio-elementary
+Elementary School,WEST LAS VEGAS ,068,LUIS E. ARMIJO ELEMENTARY,Delbert,Saavedra,Delbert_Saavedra@wlvs.org,600 PORTER ST,LAS VEGAS,NM,87701,https://www.wlvs.k12.nm.us/o/wlvs/page/luis-e-armijo-elementary
+Elementary School,WEST LAS VEGAS ,068,TONY SERNA JR. ELEMENTARY,Delbert,Saavedra,Delbert_Saavedra@wlvs.org,1725 NEW MEXICO AVE,LAS VEGAS,NM,87701,https://www.wlvs.k12.nm.us/o/wlvs/page/tony-serna-jr-elementary
+Elementary School,WEST LAS VEGAS ,068,UNION ELEMENTARY,April,Ortiz,april_ortiz@wlvs.org,421 UNION ST,LAS VEGAS,NM,87701,https://www.wlvs.k12.nm.us/o/wlvs/page/union-street-elementary
+Elementary School,WEST LAS VEGAS ,068,VALLEY ELEMENTARY,Rosemarie,Salinas,Rosemarie_Salinas@wlvs.org,85 NM HWY 484,RIBERA,NM,87560,https://www.wlvs.k12.nm.us/o/wlvs/page/west-las-vegas-valley-school
+Elementary School,LAS VEGAS CITY ,069,LOS NINOS ELEMENTARY,Vanessa,Garcia,vanessagarcia@cybercardinal.com,474 LEGION DR,LAS VEGAS,NM,87701,https://losninos.cybercardinal.com/
+Elementary School,LAS VEGAS CITY ,069,SIERRA VISTA ELEMENTARY,Donna,Lucero-Valdez,donnalucero@cybercardinal.com,475 LEGION DR,LAS VEGAS,NM,87701,https://sierravista.cybercardinal.com/
+Elementary School,PECOS ,070,PECOS ELEMENTARY,Cathy,Gallegos,cgallegos@pecos.k12.nm.us,NORTH NM HWY 63,PECOS,NM,87552,https://www.pecos.k12.nm.us/elementary
+Elementary School,SANTA FE ,071,ACEQUIA MADRE ELEMENTARY,DIETGER,DE MAESENEER,DDEMAESENEER@SFPS.K12.NM.US,700 ACEQUIA MADRE ST,SANTA FE,NM,87501,http://acequiamadre.sfps.info
+Elementary School,SANTA FE ,071,AMY BIEHL COMMUNITY SCHOOL AT RANCHO VIEJO,Felicia,Torres,FTORRES@SFPS.K12.NM.US,310 AVIENDA DEL SUR,SANTA FE,NM,87508,http://amybiehl.sfps.info
+Elementary School,SANTA FE ,071,ASPEN COMMUNITY SCHOOL,Bridget,Love,blove@sfps.k12.nm.us,450 LA MADERA,SANTA FE,NM,87501,http://aspen.sfps.info
+Elementary School,SANTA FE ,071,ATALAYA ELEMENTARY,Katherine,Diaz,kdiaz@sfps.k12.nm.us,721 CAMINO CABRA,SANTA FE,NM,87501,http://atalaya.sfps.info
+Elementary School,SANTA FE ,071,CARLOS GILBERT ELEMENTARY,KIMBERLY,PIETROCCI,KPIETROCCI@sfps.k12.nm.us,300 GRIFFIN ST,SANTA FE,NM,87501,http://carlosgilbert.sfps.info
+Elementary School,SANTA FE ,071,CESAR CHAVEZ ELEMENTARY,Maeghan,McCormick,MAMCCORMICK@SFPS.K12.NM.US,6251 JAGUAR DR,SANTA FE,NM,87507,http://cesarchavez.sfps.info
+Elementary School,SANTA FE ,071,CHAPARRAL ELEMENTARY,ERICA,MARTINEZ-MAESTAS,EMAESTAS@SFPS.K12.NM.US,2451 AVENIDA CHAPARRAL,SANTA FE,NM,87505,http://chaparral.sfps.info
+Elementary School,SANTA FE ,071,E.J. MARTINEZ ELEMENTARY,ANGELIQUE,ARMIJO-ORTIZ,AMARMIJO@SFPS.K12.NM.US,401 NORTH SAN MATEO,SANTA FE,NM,87505,http://ejmartinez.sfps.info
+Elementary School,SANTA FE ,071,EL CAMINO REAL ACADEMY COMMUNITY,EVAN,GOURD,EGOURD@sfps.k12.nm.us,2500 S. MEADOWS,SANTA FE,NM,87507,http://ecra.sfps.info
+Elementary School,SANTA FE ,071,EL DORADO COMMUNITY SCHOOL,JOHN,SAIS,JSAIS@SFPS.K12.NM.US,2 AVENIDA TORREON,SANTA FE,NM,87508,http://eldorado.sfps.info
+Elementary School,SANTA FE ,071,FRANCIS X. NAVA ELEMENTARY,Justin,Hunter,JHUNTER@SFPS.K12.NM.US,2655 SIRINGO RD,SANTA FE,NM,87505,http://nava.sfps.info
+Elementary School,SANTA FE ,071,GONZALES ELEMENTARY,Christopher,Lopez,CHRISLOPEZ@SFPS.K12.NM.US,851 WEST ALAMEDA,SANTA FE,NM,87501,http://gonzales.sfps.info
+Elementary School,SANTA FE ,071,KEARNY ELEMENTARY,JONATHAN,DAVIS,JODAVIS@SFPS.K12.NM.US,901 AVENIDA CAMPANAS,SANTA FE,NM,87501,http://kearny.sfps.info
+Elementary School,SANTA FE ,071,PINON ELEMENTARY,Danielle,AAGAARD-SAIS,DAAGAARD@sfps.k12.nm.us,2921 CAMINO CABALLOS,SANTA FE,NM,87507,http://pinon.sfps.info
+Elementary School,SANTA FE ,071,R.M. SWEENEY ELEMENTARY,MELISSA,KOVAC,MKOVAC@SFPS.K12.NM.US,501 AIRPORT RD,SANTA FE,NM,87505,http://sweeney.sfps.info
+Elementary School,SANTA FE ,071,RAMIREZ THOMAS ELEMENTARY,Charlotte,Ault,CAULT@SFPS.K12.NM.US,610 ALTA VISTA,SANTA FE,NM,87505,http://ramirezthomas.sfps.info
+Elementary School,SANTA FE ,071,SALAZAR ELEMENTARY,ALYSSA,MAESTAS,AMAESTAS@SFPS.K12.NM.US,1231 APACHE AVE.,SANTA FE,NM,87505,http://salazar.sfps.info
+Elementary School,SANTA FE ,071,TESUQUE ELEMENTARY,Amy,Thomas,AMYTHOMAS@SFPS.K12.NM.US,1555 BISHOPS LODGE RD,TESUQUE,NM,87506,http://tesuque.sfps.info
+Elementary School,SANTA FE ,071,WOOD-GORMLEY ELEMENTARY,Karen,Lindeen,KLINDEEN@SFPS.K12.NM.US,141 EAST BOOTH ST,SANTA FE,NM,87501,http://woodgormley.sfps.info
+Elementary School,POJOAQUE ,072,PABLO ROYBAL ELEMENTARY,Lynda,Lujan Trujillo,llt@pvs.k12.nm.us,1574 STATE RD 502,SANTA FE,NM,87506,https://pvs.k12.nm.us/
+Elementary School,POJOAQUE ,072,POJOAQUE INTERMEDIATE,Teri,Vaisa,tlv@pvs.k12.nm.us,1574 STATE ROAD 502,SANTA FE,NM,87506,https://pvs.k12.nm.us/
+Elementary School,T OR C ,073,ARREY ELEMENTARY,Brandy,Williams,bwilliams@torcschools.net,7 ARREY CEMETERY RD,ARREY,NM,87930,http://www.torcschools.net
+Elementary School,T OR C ,073,SIERRA ELEMENTARY,Shirley,Muncy,smuncy@torcschools.net,1500 NORTH SILVER,T OR C,NM,87901,http://www.torcschools.net
+Elementary School,SOCORRO ,074,COTTONWOOD VALLEY CHARTER,Mark,Forman,mforman@cottonwoodvalley.org,201 NEEL ST,SOCORRO,NM,87801,http://www.cottonwoodvalley.org
+Elementary School,SOCORRO ,074,MIDWAY ELEMENTARY,Julie,Romero,jromero@socorroschools.org,9 MIDWAY RD,POLVADERA,NM,87828,https://www.socorroschools.org/
+Elementary School,SOCORRO ,074,PARKVIEW ELEMENTARY,Laurie,Ocampo,locampo@socorroschools.org,107 FRANCISO DE AVAD,SOCORRO,NM,87801,https://www.socorroschools.org/
+Elementary School,SOCORRO ,074,SAN ANTONIO ELEMENTARY,Kimberly,Sanchez,ksanchez@socorroschools.org,2 4TH ST,SAN ANTONIO,NM,87832,https://www.socorroschools.org/
+Elementary School,MAGDALENA ,075,MAGDALENA ELEMENTARY,Jory,Mirabal,jmirabal@magschools.us,201 DUGGINS DR,MAGDALENA,NM,87825,http://www.magdalena.k12.nm.us
+Elementary School,TAOS ,076,ANANSI CHARTER SCHOOL,Michele,Hunt,mhunt@anansi.acstaos.org,57 NM 230,EL PRADO,NM,87529,http://anansicharterschool.org
+Elementary School,TAOS ,076,ARROYO DEL NORTE ELEMENTARY,Anthony,Medina,anthony.medina@taosschools.org,405 HONDO SECO RD,ARROYO SECO,NM,87514,http://www.taosschools.org
+Elementary School,TAOS ,076,ENOS GARCIA ELEMENTARY,Nicole,Mora-Atencio,nicole.moraatencio@taosschools.org,305 DON FERNANDO,TAOS,NM,87571,http://www.taosschools.org
+Elementary School,TAOS ,076,RANCHOS DE TAOS ELEMENTARY,Leilani,Montano ,leilani.montano@taosschools.org,200 RANCHOS ELEMENTARY RD,RANCHOS DE TAOS,NM,87557,http://www.taosschools.org
+Elementary School,TAOS ,076,RANCHOS DE TAOS ELEMENTARY,Madelyn,Serna Marmol,madmar@taosschools.org,200 RANCHOS ELEMENTARY RD,RANCHOS DE TAOS,NM,87557,http://www.taosschools.org
+Elementary School,PENASCO ,077,PENASCO ELEMENTARY,Michelle,Gonzales,mgonzales2@penascoisd.com,13 SCHOOL RD,PENASCO,NM,87553,http://www.penascoisd.com
+Elementary School,PENASCO ,077,PENASCO ELEMENTARY,Katherine,Duran,katherineduran@penascoisd.com,13 SCHOOL RD,PENASCO,NM,87553,http://www.penascoisd.com
+Elementary School,MESA VISTA ,078,EL RITO ELEMENTARY,Richard,Apodaca,richard.apodaca@mesavista.org,10 ELEMENTARY RD,EL RITO,NM,87530,http://mesavistacsd.com
+Elementary School,MESA VISTA ,078,OJO CALIENTE ELEMENTARY,Richard,Apodaca,richard.apodaca@mesavista.org,HWY 285 JUNCTION 111,OJO CALIENTE,NM,87549,http://mesavistacsd.com
+Elementary School,QUESTA ,079,ALTA VISTA ELEMENTARY,Deyhle,Adkins,dadkins@questa.k12.nm.us,4 WILDCAT RD,QUESTA,NM,87556,https://qisd-nm.schoolloop.com/
+Elementary School,ESTANCIA ,080,LOWER ELEMENTARY,Jennifer,Gonzales,jennifer.gonzales@emsdbears.us,624 8TH ST,ESTANCIA,NM,87016,https://www.estancia.k12.nm.us
+Elementary School,ESTANCIA ,080,UPPER ELEMENTARY,Jennifer,Gonzales,jennifer.gonzales@emsdbears.us,624 8TH ST,ESTANCIA,NM,87016,https://www.estancia.k12.nm.us
+Elementary School,MORIARTY-EDGEWOOD ,081,MORIARTY ELEMENTARY,Savannah,Luce,savannah.luce@mesd.us,2015 SCHOOL LOOP,MORIARTY,NM,87035,https://mes.mesd.us/o/mes
+Elementary School,MORIARTY-EDGEWOOD ,081,ROUTE 66 ELEMENTARY,Rhiannon,Thomas,rhiannon.thomas@mesd.us,805 BARTON RD,MORIARTY,NM,87035,https://rt66.mesd.us/o/rt66
+Elementary School,MORIARTY-EDGEWOOD ,081,SOUTH MOUNTAIN ELEMENTARY,Davina,Turner,davina.turner@mesd.us,577 STATE RD 344,MORIARTY,NM,87015,https://sme.mesd.us/o/sme
+Elementary School,MOUNTAINAIR ,082,MOUNTAINAIR ELEMENTARY,Victoria,Baca,vbaca@mpschools.net,405 BROADWAY,MOUNTAINAIR,NM,87036,https://www.mountainairpublicschools.net
+Elementary School,RIO RANCHO ,083,COLINAS DEL NORTE ELEMENTARY,Julie,Pierce,julie.pierce@rrps.net,1001 NIGHT SKY AVE NE,RIO RANCHO,NM,87144,http://colinas.rrps.net
+Elementary School,RIO RANCHO ,083,ENCHANTED HILLS ELEMENTARY,JENNIFER,BARTLEY,jennifer.bartley@rrps.net,5400 OBREGON RD NE,RIO RANCHO,NM,87144,http://enchanted.rrps.net
+Elementary School,RIO RANCHO ,083,ERNEST STAPLETON ELEMENTARY,CHERYL,CLARK,cheryl.clark@rrps.net,3100 STAPLETON AVE NE,RIO RANCHO,NM,87124,http://stapleton.rrps.net
+Elementary School,RIO RANCHO ,083,JOE HARRIS ELEMENTARY,Trent,Heffner,trent.heffner@rrps.net,2100 10TH STREET SE,RIO RANCHO,NM,87124,http://joeharris.rrps.net/
+Elementary School,RIO RANCHO ,083,MARTIN KING JR ELEMENTARY,Sara,Valenzuela,sara.valenzuela@rrps.net,1301 NICKLAUS DR SE,RIO RANCHO,NM,87124,http://martin.rrps.net
+Elementary School,RIO RANCHO ,083,PUESTA DEL SOL ELEMENTARY,Dana,Petro,dana.petro@rrps.net,450 SOUTHERN BLVD SE,RIO RANCHO,NM,87124,http://puesta.rrps.net
+Elementary School,RIO RANCHO ,083,RIO RANCHO ELEMENTARY,Sarah,Poutsch,sarah.poutsch@rrps.net,4601 PEPE ORTIZ RD SE,RIO RANCHO,NM,87124,http://riorancho.rrps.net
+Elementary School,RIO RANCHO ,083,SANDIA VISTA ELEMENTARY,KIRK,DESOTO,Kirk.DeSoto@rrps.net,6800 FRANKLIN RD NE,RIO RANCHO,NM,87144,http://sandiavista.rrps.net
+Elementary School,RIO RANCHO ,083,VISTA GRANDE ELEMENTARY,CHRISTINE,PRESCOTT,christine.prescott@rrps.net,7001 CHAYOTE RD NE,RIO RANCHO,NM,87144,http://vistagrande.rrps.net
+Elementary School,CLAYTON ,084,ALVIS ELEMENTARY,Hesper,Heimann,hesper.heimann@claytonschools.us,404 ASPEN ST,CLAYTON,NM,88415,http://www.claytonschools.us
+Elementary School,CLAYTON ,084,KISER ELEMENTARY,Jeffrey,Funk,jeffrey.funk@claytonschools.us,224 SPRUCE ST,CLAYTON,NM,88415,http://www.claytonschools.us
+Elementary School,DES MOINES ,085,DES MOINES ELEMENTARY,Jennifer,Poling,jpoling@dmsk12.org,500 DES MOINES AVENUE,DES MOINES,NM,88418,https://www.desmoines.k12.nm.us/District/Portal/Elementary
+Elementary School,LOS LUNAS ,086,ANN PARISH ELEMENTARY,Lisa,Begay,lbegay@llschools.net,112 MEADOW LAKE,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,BOSQUE FARMS ELEMENTARY,Deanna,Herrera,dherrera@llschools.net,1390 WEST BOSQUE LP,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,DESERT VIEW ELEMENTARY,Diedra,Martinez,damartinez@llschools.net,49 CAMINO LA CANADA,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,KATHERINE GALLEGOS ELEMENTARY,Jeffrey,Hartog,jhartog@llschools.net,236 DOM PASQUAL RD,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,PERALTA ELEMENTARY,Amy,Viramontes,aviramontes@llschools.net,3645 HWY 47,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,RAYMOND GABALDON ELEMENTARY,Catharine,Campbell,cccampbell@llschools.net,454 CORONADO RD,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,SUNDANCE ELEMENTARY,Venessa,Tregembo,vtregembo@llschools.net,3701 SUNDANCE SW,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,TOME ELEMENTARY,Monica,Rivera,mnrivera@llschools.net,46 CHACON RD,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,VALENCIA ELEMENTARY,Suzanne,Chavez,schavez@llschools.net,111 MONICA RD,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,VALENCIA ELEMENTARY,Elias,Casaus,ecasaus@llschools.net,111 MONICA RD,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,LOS LUNAS ,086,VALENCIA ELEMENTARY,Karla,Abeyta-Dow,kdow@llschools.net,111 MONICA RD,LOS LUNAS,NM,87031,https://www.llschools.net
+Elementary School,BELEN ,087,CENTRAL ELEMENTARY,SARAH,GARCIA,garcias@beleneagles.org,600 W. PICARD AVE,BELEN,NM,87002,https://www.beleneagles.org/o/central
+Elementary School,BELEN ,087,DENNIS CHAVEZ ELEMENTARY,ANDREA,MONTANO,MontanoA@beleneagles.org,19670 HWY 314,BELEN,NM,87002,https://www.beleneagles.org/o/dce
+Elementary School,BELEN ,087,GIL SANCHEZ ELEMENTARY,CARLA S.,MARTINEZ,MartinezCa@beleneagles.org,376 JARALES RD,BELEN,NM,87002,https://www.beleneagles.org/o/gse
+Elementary School,BELEN ,087,LA MERCED ELEMENTARY,ROBERT,MOND,mondr@beleneagles.org,301 ALAME LOOP,BELEN,NM,87002,https://www.beleneagles.org/o/lme
+Elementary School,BELEN ,087,LA MERCED ELEMENTARY,JAMES,CORDOVA JR.,cordovaj@beleneagles.org,301 ALAME LOOP,BELEN,NM,87002,https://www.beleneagles.org/o/lme
+Elementary School,BELEN ,087,LA PROMESA ELEMENTARY,CHERI,MONTOYA,MontoyaC@beleneagles.org,898 HWY 304,BELEN,NM,87002,https://www.beleneagles.org/o/lpe
+Elementary School,BELEN ,087,RIO GRANDE ELEMENTARY,MARGARET,MANNING,manningm@beleneagles.org,15 EASTSIDE SCHOOL RD,BELEN,NM,87002,https://www.beleneagles.org/o/rge
+Elementary School,GRANTS ,088,BLUEWATER ELEMENTARY,Gary,Miller,gary.miller@gccs.k12.nm.us,15 WEST CHESS RD,BLUEWATER,NM,87005,http://www.gccs.k12.nm.us
+Elementary School,GRANTS ,088,CUBERO ELEMENTARY,Monica,Martinez,monica.martinez@gccs.k12.nm.us,28 BACA RD.,CUBERO,NM,87014,http://www.gccs.k12.nm.us
+Elementary School,GRANTS ,088,MESA VIEW ELEMENTARY,Amy,Arkie,AMY.ARKIE@GCCS.K12.NM.US,400 EAST WASHINGTON,GRANTS,NM,87020,http://www.gccs.k12.nm.us
+Elementary School,GRANTS ,088,MILAN ELEMENTARY,Stanley,Maschal,stanley.maschal@gccs.k12.nm.us,404 SAND,MILAN,NM,87021,http://www.gccs.k12.nm.us
+Elementary School,GRANTS ,088,MOUNT TAYLOR ELEMENTARY,Amanda,Valdez,amanda.valdez@gccs.k12.nm.us,1607 DEL NORTE,GRANTS,NM,87020,http://www.gccs.k12.nm.us
+Elementary School,GRANTS ,088,SAN RAFAEL ELEMENTARY,Gary,Miller,gary.miller@gccs.k12.nm.us,27 MESA VIEW ST,SAN RAFAEL,NM,87051,http://www.gccs.k12.nm.us
+Elementary School,GRANTS ,088,SEBOYETA ELEMENTARY,Monica,Martinez,monica.martinez@gccs.k12.nm.us,6 SCHOOL ROAD,SEBOYETA,NM,87014,https://seboyeta.gccs.k12.nm.us/
+Elementary School,ZUNI ,089,SHIWI TS'ANA ELEMENTARY,Janis,Bowekaty,janis.bowekaty@zpsd.org,38 ZUNI ROUTE 301 NORTH,ZUNI,NM,87327,https://www.zpsd.org/
+Elementary School,HORIZON ACADEMY WEST ,503,HORIZON ACADEMY WEST,Carissa,Cantrell,ccantrell@hawest.net,3021 TODOS SANTOS NW,ALBUQUERQUE,NM,87120,http://www.hawest.net
+Elementary School,NORTH VALLEY ACADEMY ,504,NORTH VALLEY ACADEMY,Julie,Geldmacher,jgeldmacher@nvanm.org,7939 4TH STREET NW,LOS RANCHOS DE ALBUQUERQUE,NM,87114,http://www.nvanm.org
+Elementary School,TAOS INTEGRATED SCHOOL OF ARTS ,521,TAOS INTEGRATED SCHOOL OF ARTS,Richard,Greywolf,regreywolf@tisataos.org,118 TOALNE STREET,TAOS,NM,87571,http://www.tisataos.com
+Elementary School,ALBUQUERQUE BILINGUAL ACADEMY ,528,ALBUQUERQUE BILINGUAL ACADEMY,David,Bryant,dbryant@lpelc.com,7500 LA MORADA NW,ALBUQUERQUE,NM,87120,http://www.lpelc.com
+Elementary School,J PAUL TAYLOR ACADEMY ,535,J PAUL TAYLOR ACADEMY,Julia,Rivera-Tapia,julia.rivera-tapia@jpaultayloracademy.org,402 W. COURT AVE BLDG 2,LAS CRUCES,NM,88005,http://www.jpaultayloracademy.org
+Elementary School,RED RIVER VALLEY CHARTER SCHOOL ,539,RED RIVER VALLEY CHARTER SCHOOL,Kimberly,Ritterhouse,kimberly@redrivervalleycs.com,500 E HIGH ST,RED RIVER,NM,87558,https://www.redrivervalleycs.org/
+Elementary School,MISSION ACHIEVEMENT AND SUCCESS ,542,MISSION ACHIEVEMENT AND SUCCESS 2.0,Rosa,Swonger,rosa.swonger@mascharterschool.com,1255 OLD COORS RD SW,ALBUQUERQUE,NM,87121,http://missionachievementandsuccess.com
+Elementary School,TAOS INTERNATIONAL SCHOOL  ,555,TAOS INTERNATIONAL SCHOOL,NADINE,VIGIL,director@taosinternational.org,118 ESTE ES ROAD,TAOS,NM,87571,taosinternationalschool.weebly.com
+Elementary School,SANDOVAL ACADEMY OF BILINGUAL EDUCATION ,563,SANDOVAL ACADEMY OF BILINGUAL EDUCATION,Jackie,Rodriguez,jrodriguez@nmsabe.org,4321 FULCRUM WAY NE SUITE A,RIO RANCHO,NM,87144,https://www.nmsabe.org
+Elementary School,TURQUOISE TRAIL CHARTER SCHOOL ,566,TURQUOISE TRAIL CHARTER SCHOOL,Mary Ellen,Dannenberg,medannenberg@ttschool.org,13A SAN MARCOS LOOP,SANTA FE,NM,87508,http://www.turquoisetrailcharterschool.org
+Elementary School,TURQUOISE TRAIL CHARTER SCHOOL ,566,TURQUOISE TRAIL CHARTER SCHOOL,Stephanie,Behning,sbehning@ttschool.org,13A SAN MARCOS LOOP,SANTA FE,NM,87508,http://www.turquoisetrailcharterschool.org
+Elementary School,ALBUQUERQUE COLLEGIATE CHARTER SCHOOL ,574,ALBUQUERQUE COLLEGIATE CHARTER SCHOOL,Jade,Rivera,jrivera@abqcollegiate.org,1720 BRIDGE BLVD SW SUITE #101,ALBUQUERQUE,NM,87105,www.abqcollegiate.org
+Elementary School,ALTURA PREPARATORY SCHOOL ,575,ALTURA PREPARATORY SCHOOL,Meaghan,Hindman,Meaghan.hindman@alturaprep.org,8650 ALAMEDA BLVD BLDG 2B,ALBUQUERQUE,NM,87122,http://alturaprep.org
+Elementary School,THRIVE COMMUNITY SCHOOL ,582,THRIVE COMMUNITY SCHOOL,Sean,Duncan,seanduncan@thriveschoolsf.org,7300 OLD SANTA FE TRAIL,SANTA FE,NM,87505,www.thriveschoolsf.org
+High School,ALBUQUERQUE ,001,CORRALES INTERNATIONAL,Mark,Tolley,tolleym@corralesis.org,5500 WILSHIRE AVE. NE,ALBUQUERQUE,NM,87113,corralesis.org
+High School,ALBUQUERQUE ,001,NATIVE AMERICAN COMMUNITY ACADEMY,Zane,Rosette,rosette@nacaschool.org,1000 INDIAN SCHOOL RD,ALBUQUERQUE,NM,87104,nacaschool.org
+High School,ALBUQUERQUE ,001,THE INTERNATIONAL SCHOOL AT MESA DEL SOL,Barbra,Langmaid,blangmaid@tisnm.org,2000 BOBBY FOSTER RD,ALBUQUERQUE,NM,87106,tisnm.org
+High School,ALBUQUERQUE ,001,THE INTERNATIONAL SCHOOL AT MESA DEL SOL,Amanda,Castaneda,acastaneda@tisnm.org,2000 BOBBY FOSTER RD,ALBUQUERQUE,NM,87106,tisnm.org
+High School,ABQ SCHOOL OF EXCELLENCE ,516,ABQ SCHOOL OF EXCELLENCE,Vickie,Kwiecinski,vk111@abqse.org,13201 LOMAS BLVD NE,ALBUQUERQUE,NM,87112,http://www.abqse.org
+High School,MCCURDY CHARTER SCHOOL ,547,MCCURDY CHARTER SCHOOL,Bernadette,Tixier-French,btfrench@mcsk12nm.org,515 CALLE ARBOLERA,ESPANOLA,NM,87532,http://mcsk12nm.org
+High School,NEW MEXICO CONNECTIONS ACADEMY ,554,NEW MEXICO CONNECTIONS ACADEMY,Jolene,Ortiz,jcortiz@nmca.connectionsacademy.org,130 SIRINGO ROAD,SANTA FE,NM,87505,https://www.connectionsacademy.com/new-mexico-online-school
+High School,NEW MEXICO CONNECTIONS ACADEMY ,554,NEW MEXICO CONNECTIONS ACADEMY,Sandra,Beery,sbeery@nmca.connectionsacademy.org,130 SIRINGO ROAD,SANTA FE,NM,87505,https://www.connectionsacademy.com/new-mexico-online-school
+High School,EXPLORE ACADEMY ,557,EXPLORE ACADEMY,Lisa,Hughes,lisa.hughes@explore.academy,5100 MASTHEAD ST NE,ALBUQUERQUE,NM,87109,https://www.explore.academy/abq
+High School,HOZHO ACADEMY ,573,HOZHO ACADEMY,Juliane,Hillock,principal@hozhoacademy.org,515 PARK AVE,GALLUP,NM,87301,https://hozhoacademy.org
+High School,HOZHO ACADEMY ,573,HOZHO ACADEMY,Douglass,MacPherson,dmacpherson@hozhoacademy.org,515 PARK AVE,GALLUP,NM,87301,https://hozhoacademy.org
+High School,PECOS CYBER ACADEMY ,584,PECOS CYBER ACADEMY,Kelley,Fontanilla,kfontanilla@pecosca.us,"1841 OLD ROUTE 66, SUITE B",EDGEWOOD,NM,87015,https://pecoscyber.org/
+Junior High,HOUSE ,050,HOUSE JUNIOR HIGH,Coby,Norman,cnorman@houseschools.net,309 APPLE ST,HOUSE,NM,88121,http://www.houseschools.net
+Middle School,RATON ,009,RATON INTERMEDIATE,Justin,Mattorano,justin.mattorano@ratonschools.com,500 SOUTH THIRD,RATON,NM,87740,https://www.ratonschools.com/rishome.html
+Middle School,CARLSBAD ,020,CARLSBAD SIXTH GRADE ACADEMY - ALTA VISTA CAMPUS,Amy,Coll,Amy.Coll@carlsbadschools.net,301 SOUTH ALTA VISTA ST,CARLSBAD,NM,88220,https://av.carlsbadschools.net
+Middle School,LOVINGTON ,031,LOVINGTON 6TH GRADE ACADEMY,STEVE,BARRON,stevebarron@lovingtonschools.net,500 WEST JEFFERSON AVE,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+Middle School,WEST LAS VEGAS ,068,RIO GALLINAS SCHOOL,Aja,Currey,aja.currey@riogallinasschool.org,2730 ROMERO ST,LAS VEGAS,NM,87701,http://riogallinasschool.org
+Middle School,SANTA FE ,071,NINA OTERO COMMUNITY SCHOOL,Valerie,Apodaca,VAAPODACA@SFPS.K12.NM.US,5901 HERRERA DRIVE,SANTA FE,NM,87507,http://ninaotero.sfps.info
+Middle School,POJOAQUE ,072,SIXTH GRADE ACADEMY,Mario,Vigil,mtv@pvs.k12.nm.us,1574 STATE RD 502,POJOAQUE,NM,87506,https://pvs.k12.nm.us/sga/
+Middle School,ROOTS & WINGS COMMUNITY ,570,ROOTS & WINGS COMMUNITY,Jon,Orris,director@rwcs.org,35 OLD LAMA RD,QUESTA,NM,87556,www.rootsandwingscommunityschool.org
+Prekindergarten,ROSWELL ,004,PARKVIEW EARLY LITERACY CENTER,DANIELLE,ORTEGA,dortega@risd.k12.nm.us,1700 WEST ALAMEDA ST,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/elem/par.cfm
+Prekindergarten,CLOVIS ,012,LOS NINOS,COREY,LUCERO,corey.lucero@clovis-schools.org,3301 THORNTON,CLOVIS,NM,88101,http://www.clovis-schools.org/losninos
+Prekindergarten,CARLSBAD ,020,HILLCREST PRESCHOOL,Marianne,Burnett,Marianne.Burnett@carlsbadschools.net,1801 WEST LEA ST.,CARLSBAD,NM,88220,https://hillcrest.carlsbadschools.net
+Prekindergarten,SILVER CITY ,023,SILVER SCHOLARS ACADEMY,Heather,Holguin,hholguin@silverschools.org,600 E 32ND STREET,SILVER CITY,NM,88061,http://www.silverschools.org
+Prekindergarten,BERNALILLO ,061,LA ESCUELITA EARLY CHILDHOOD,Jessica,Kettler,jkettler@bernalillops.org,301 CALLE DE ESCUELA,BERNALILLO,NM,87004,https://www.bernalillo-schools.org
+Special Education,DEMING ,042,MY LITTLE SCHOOL,Amber,Swinney,amber.swinney@demingps.org,905 SOUTH ZINC,DEMING,NM,88030,http://mls.demingps.org
+Special Education,RIO RANCHO ,083,SHINING STARS PRESCHOOL,Noelle,Caceres,noelle.caceres@rrps.net,2100 LIONEL STREET NE,RIO RANCHO,NM,87144,http://shiningstars.rrps.net
+State Supported,NM SCH FOR THE DEAF ,093,NM SCHOOL FOR THE DEAF,Diana,Huizar,diana.huizar@nmsd.k12.nm.us,1060 CERRILLOS RD,SANTA FE,NM,87505,http://www.nmsd.k12.nm.us

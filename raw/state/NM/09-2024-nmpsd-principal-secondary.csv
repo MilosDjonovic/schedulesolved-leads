@@ -1,0 +1,223 @@
+﻿SchoolCategory,DistrictName,DistrictCode,SchoolName,FirstName,LastName,ElectronicMailAddress,PhysicalAddress_StreetNumberName,PhysicalAddress_City,PhysicalAddress_StateAbbreviationCode,PhysicalAddress_PostalCode,WebSite
+Central Office,ALBUQUERQUE ,001,ALBUQUERQUE ,Costa,Pavlakos,PAVLAKOS@aps.edu,6400 UPTOWN BLVD NE,ALBUQUERQUE,NM,87110,http://www.aps.edu
+Central Office,ALBUQUERQUE ,001,ALBUQUERQUE ,Jennifer,Blythe,Jennifer.Blythe@aps.edu,6400 UPTOWN BLVD NE,ALBUQUERQUE,NM,87110,http://www.aps.edu
+Central Office,ROSWELL ,004,ROSWELL ,JENNIFER,COLE,JCole@risd.k12.nm.us,300 N. KENTUCKY,ROSWELL,NM,88201,http://www.risd.k12.nm.us
+Central Office,ROSWELL ,004,ROSWELL ,GLENDA,LEONARD,gleonard@risd.k12.nm.us,300 N. KENTUCKY,ROSWELL,NM,88201,http://www.risd.k12.nm.us
+Central Office,ROSWELL ,004,ROSWELL ,KARLA,STINEHART,KStinehart@risd.k12.nm.us,300 N. KENTUCKY,ROSWELL,NM,88201,http://www.risd.k12.nm.us
+Central Office,RIO RANCHO ,083,RIO RANCHO ,Kristopher,Johnson,Kristopher.Johnson@rrps.net,500 LASER ROAD NE,RIO RANCHO,NM,87124,http://www.rrps.net
+Central Office,RIO RANCHO ,083,RIO RANCHO ,Theodore,Roberts,lee.roberts@rrps.net,500 LASER ROAD NE,RIO RANCHO,NM,87124,http://www.rrps.net
+Central Office,RIO RANCHO ,083,RIO RANCHO ,LAWRENCE,DAVIS,Lawrence.Davis@rrps.net,500 LASER ROAD NE,RIO RANCHO,NM,87124,http://www.rrps.net
+Central Office,ABQ SIGN LANGUAGE ACADEMY ,517,ABQ SIGN LANGUAGE ACADEMY ,Raphael,Martinez,rafem@aslacademy.com,620 LOMAS BLVD NW,ALBUQUERQUE,NM,87102,http://www.aslacademy.com
+Elementary School,ALBUQUERQUE ,001,COYOTE WILLOW FAMILY SCHOOL,Adrianne,Elkins,Adrianne.Hopper@aps.edu,7125 IRVING BLVD NW,ALBUQUERQUE,NM,87114,cwfs.aps.edu
+Elementary School,ALBUQUERQUE ,001,DESERT WILLOW FAMILY SCHOOL,Trish Ann,Teasdale,TrishAnn.Teasdale@aps.edu,3303 MONROE NE,ALBUQUERQUE,NM,87110,desertwillow.aps.edu
+Elementary School,SILVER CITY ,023,G.W.STOUT ELEMENTARY,Jason,Ping,jping@silverschools.org,2601 NORTH SILVER ST,SILVER CITY,NM,88061,http://www.silverschools.org
+Elementary School,HOUSE ,050,HOUSE ELEMENTARY,Coby,Norman,cnorman@houseschools.net,309 APPLE ST,HOUSE,NM,88121,http://www.houseschools.net
+Elementary School,CENTRAL ,067,OJO AMARILLO ELEMENTARY,ROBI,HESS,hessro@centralschools.org,RD 6500 AND RD 6466,FRUITLAND,NM,87416,https://www.ccsdnm.org/ojoamarillo
+Elementary School,RIO RANCHO ,083,SANDIA VISTA ELEMENTARY,Theodore,Roberts,lee.roberts@rrps.net,6800 FRANKLIN RD NE,RIO RANCHO,NM,87144,http://sandiavista.rrps.net
+High School,ALBUQUERQUE ,001,ABQ CHARTER ACADEMY,Deborah,Moya,deb.moya@abqcharteracademy.org,405 DR. MARTIN LUTHER KING JR. AVE. NE,ALBUQUERQUE,NM,87102,abqcharteracademy.org
+High School,ALBUQUERQUE ,001,ACE LEADERSHIP HIGH SCHOOL,Justin,Trager,justin@aceleadership.org,1240 BELLAMAH AVE. NW,ALBUQUERQUE,NM,87104,aceleadership.org
+High School,ALBUQUERQUE ,001,ALBUQUERQUE HIGH,Cesar,Hernandez,HERNANDEZ_C@aps.edu,800 ODELIA RD NE,ALBUQUERQUE,NM,87102,albuquerquehigh.aps.edu
+High School,ALBUQUERQUE ,001,ALBUQUERQUE TALENT DEVELOPMENT CHARTER,Lucinda,Molina,lmolina@atdacademy.org,1800 ATRISCO RD NW,ALBUQUERQUE,NM,87120,https://www.aps.edu/schools/schools/albuquerque-talent-development-secondary
+High School,ALBUQUERQUE ,001,ATRISCO HERITAGE ACADEMY HS,Gilber,Leiva,leiva@aps.edu,10800 DENNIS CHAVEZ BLV SW,ALBUQUERQUE,NM,87121,aha.aps.edu
+High School,ALBUQUERQUE ,001,ATRISCO HERITAGE ACADEMY HS,Irene,Cisneros,cisneros_i@aps.edu,10800 DENNIS CHAVEZ BLV SW,ALBUQUERQUE,NM,87121,aha.aps.edu
+High School,ALBUQUERQUE ,001,BERNALILLO COUNTY JUVENILE DETENTION,Meghan,Miller,miller_me@aps.edu,5100 2ND ST NW,ALBUQUERQUE,NM,87107,jdc.aps.edu
+High School,ALBUQUERQUE ,001,BERNALILLO COUNTY JUVENILE DETENTION,Rodney,Suazo,suazo_r@aps.edu,5100 2ND ST NW,ALBUQUERQUE,NM,87107,jdc.aps.edu
+High School,ALBUQUERQUE ,001,CAREER ENRICHMENT,Patrick,Arguelles,arguelles@aps.edu,807 MOUNTAIN RD NE,ALBUQUERQUE,NM,87102,cec.aps.edu
+High School,ALBUQUERQUE ,001,CIBOLA HIGH,Angela,Rietmann,Angela.Rietmann@aps.edu,1510 ELLISON DR NW,ALBUQUERQUE,NM,87114,cibola.aps.edu
+High School,ALBUQUERQUE ,001,CIBOLA HIGH,Kimberly,Finke,Kimberly.Finke@aps.edu,1510 ELLISON DR NW,ALBUQUERQUE,NM,87114,cibola.aps.edu
+High School,ALBUQUERQUE ,001,CIBOLA HIGH,Pamela,Meyer,meyer_pam@aps.edu,1510 ELLISON DR NW,ALBUQUERQUE,NM,87114,cibola.aps.edu
+High School,ALBUQUERQUE ,001,COLLEGE AND CAREER HIGH SCHOOL,Leigh,Cavazos Galvez,arnett_l@aps.edu,525 BUENA VISTA DR SE,ALBUQUERQUE,NM,87106,cchs.aps.edu
+High School,ALBUQUERQUE ,001,DEL NORTE HIGH,Edward,Bortot,bortot@aps.edu,5323 MONTGOMERY NE,ALBUQUERQUE,NM,87110,delnorte.aps.edu
+High School,ALBUQUERQUE ,001,EAST MOUNTAIN HIGH SCHOOL,Trey,Smith,tsmith@eastmountainhigh.net,25 LA MADERA ROAD,SANDIA PARK,NM,87047,eastmountainhigh.net
+High School,ALBUQUERQUE ,001,ECADEMY,Erin,Easley,Erin.Easley2@aps.edu,5300 CUTLER NE,ALBUQUERQUE,NM,87110,ecademy.aps.edu
+High School,ALBUQUERQUE ,001,ELDORADO HIGH,Juan,Dominguez Torres,Dominguez-Torres@aps.edu,11300 MONTGOMERY BLVD NE,ALBUQUERQUE,NM,87111,eldorado.aps.edu
+High School,ALBUQUERQUE ,001,FREEDOM HIGH,Marisol,Fraga,fraga@aps.edu,5200 CUTLER NE,ALBUQUERQUE,NM,87110,freedom.aps.edu
+High School,ALBUQUERQUE ,001,GILBERT L SENA CHARTER HS,Jennifer,Prye,jprye@senahigh.com,69 HOTEL CIR NE,ALBUQUERQUE,NM,87123,http://www.senahigh.com
+High School,ALBUQUERQUE ,001,GORDON BERNELL CHARTER,Christopher,Pauls,chris@gordonbernell.org,2821 4TH STREET NW,ALBUQUERQUE,NM,87107,gordonbernell.org
+High School,ALBUQUERQUE ,001,GORDON BERNELL CHARTER,Christopher,Cozzone,chrisc@gordonbernell.org,2821 4TH STREET NW,ALBUQUERQUE,NM,87107,gordonbernell.org
+High School,ALBUQUERQUE ,001,HIGHLAND HIGH,Marco,Harris,harris_ma@aps.edu,4700 COAL AV SE,ALBUQUERQUE,NM,87108,highland.aps.edu
+High School,ALBUQUERQUE ,001,LA ACADEMIA DE ESPERANZA,Adam,Giron,mrg@ladecharter.org,1401 OLD COORS RD SW,ALBUQUERQUE,NM,87121,ladecharter.org
+High School,ALBUQUERQUE ,001,LA CUEVA HIGH,Dana,Lee,Dana.Lee1@aps.edu,7801 WILSHIRE NE,ALBUQUERQUE,NM,87122,lacueva.aps.edu
+High School,ALBUQUERQUE ,001,LOS PUENTES CHARTER,Anna,Phillips,aphillips@lospuentes.org,4012 4TH ST. NW,ALBUQUERQUE,NM,87107,lospuentes.org
+High School,ALBUQUERQUE ,001,MANZANO HIGH,Rachel,Vigil,vigil_rl@aps.edu,12200 LOMAS BLVD NE,ALBUQUERQUE,NM,87112,manzano.aps.edu
+High School,ALBUQUERQUE ,001,MARK ARMIJO ACADEMY,Bernadette,Frietze,bernadette@nvcharter.com,6800 GONZALES RD SW,ALBUQUERQUE,NM,87121,markarmijo.com
+High School,ALBUQUERQUE ,001,NATIVE AMERICAN COMMUNITY ACADEMY,David,Olander,dolander@pecosca.us,1000 INDIAN SCHOOL RD,ALBUQUERQUE,NM,87104,nacaschool.org
+High School,ALBUQUERQUE ,001,NEW AMERICA SCHOOL,Ileana,Gallegos,igallegos@nasnm.org,1734 ISLETA BLVD SW,ALBUQUERQUE,NM,87105,https://newamericaschoolnm.org/
+High School,ALBUQUERQUE ,001,NEW FUTURES HIGH SCHOOL,Michelle,Martinez,martinez_michelle@aps.edu,5400 CUTLER NE,ALBUQUERQUE,NM,87110,newfutures.aps.edu
+High School,ALBUQUERQUE ,001,NEX GEN ACADEMY,David,Lynch,lynch_d@aps.edu,5325 MONTGOMERY NE,ALBUQUERQUE,NM,87109,nexgen.aps.edu
+High School,ALBUQUERQUE ,001,PUBLIC ACADEMY FOR PERFORMING ARTS,Tamara,Lopez,tlopez@paparts.org,11800 PRINCESS JEANNE AVE. NE,ALBUQUERQUE,NM,87112,paparts.org
+High School,ALBUQUERQUE ,001,RIO GRANDE HIGH,Antoinette,Valenzuela,valenzuela_a@aps.edu,2300 ARENAL RD SW,ALBUQUERQUE,NM,87105,riogrande.aps.edu
+High School,ALBUQUERQUE ,001,SANDIA HIGH,Camille,Gonzales,gonzales_cam@aps.edu,7801 CANDELARIA NE,ALBUQUERQUE,NM,87110,sandia.aps.edu
+High School,ALBUQUERQUE ,001,SCHOOL ON WHEELS HIGH SCHOOL,Lori,West Romero,west_l@aps.edu,129 HARTLINE RD SW,ALBUQUERQUE,NM,87105,schoolonwheels.aps.edu
+High School,ALBUQUERQUE ,001,SIEMBRA LEADERSHIP HIGH SCHOOL,Jaqlyn,Baldwin,j.baldwin@siembraabq.org,524 CENTRAL AVE SW,ALBUQUERQUE,NM,87102,siembraabq.org
+High School,ALBUQUERQUE ,001,TECHNOLOGY LEADERSHIP HIGH SCHOOL,Cynthia,Ramirez,ramirez@techabq.org,10500 RESEARCH RD SE,ALBUQUERQUE,NM,87123,leadershiphsn.org
+High School,ALBUQUERQUE ,001,THE INTERNATIONAL SCHOOL AT MESA DEL SOL,Mary,Vesper-Liakos,mvesper@tisnm.org,2000 BOBBY FOSTER RD,ALBUQUERQUE,NM,87106,tisnm.org
+High School,ALBUQUERQUE ,001,VALLEY HIGH,Anthony,Griego,GRIEGO_A@aps.edu,1505 CANDELARIA RD NW,ALBUQUERQUE,NM,87107,VALLEY.APS.EDU
+High School,ALBUQUERQUE ,001,VOLCANO VISTA HIGH,Melissa,Sedillo,sedillo_mel@aps.edu,8100 RAINBOW RD NW,ALBUQUERQUE,NM,87114,volcanovista.aps.edu
+High School,ALBUQUERQUE ,001,WEST MESA HIGH,Michele,Torres,torres_mi@aps.edu,6701 FORTUNA RD NW,ALBUQUERQUE,NM,87121,westmesa.aps.edu
+High School,RESERVE ,002,RESERVE HIGH,Kayli,Ortiz,kortiz@reserveschools.com,24 MOUNTAINEER RD.,RESERVE,NM,87830,http://www.reserveschools.com
+High School,QUEMADO ,003,QUEMADO HIGH,Cynthia,Orthman,corthman@quemadoschools.org,HWY 60,QUEMADO,NM,87829,http://www.quemadoschools.org
+High School,ROSWELL ,004,EARLY COLLEGE HIGH SCHOOL,LUCIE,HALL,LHall@risd.k12.nm.us,52 UNIVERSITY BLVD (ENMU R CAMPUS),ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/high/echs/index.cfm
+High School,ROSWELL ,004,GODDARD HIGH,CARLETON,CUTRELL,PCutrell@risd.k12.nm.us,701 EAST COUNTRY CLUB,ROSWELL,NM,88201,http://www.risd.k12.nm.us/schools/high/ghs/index.cfm
+High School,ROSWELL ,004,ROSWELL HIGH,ROSALBA,MENDOZA,rmendoza@risd.k12.nm.us,500 WEST HOBBS ST,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/high/rhs/index.cfm
+High School,ROSWELL ,004,UNIVERSITY HIGH,LUCIE,HALL,LHall@risd.k12.nm.us,25 MARTIN STREET,ROSWELL,NM,88203,http://www.risd.k12.nm.us/schools/high/uhs/index.cfm
+High School,DEXTER ,006,DEXTER HIGH,Debbie,Dumlao,dumlaod@dexterdemons.org,100 NORTH LINCOLN,DEXTER,NM,88230,http://www.dexterdemons.org
+High School,LAKE ARTHUR ,007,LAKE ARTHUR HIGH,Kathleen,Gallaway,Kathleen.Gallaway@la-panthers.org,700 BROADWAY,LAKE ARTHUR,NM,88253,http://www.la-panthers.org
+High School,CIMARRON ,008,CIMARRON HIGH,Alberta,Martinez,almartinez@cimarronschools.org,165 NORTH COLLISON AVE,CIMARRON,NM,87714,http://www.cimarronschools.org
+High School,CIMARRON ,008,MORENO VALLEY HIGH,Tammy,Dunn,tdunn@morenovalleyhigh.org,56 CAMINO GRANDE,ANGEL FIRE,NM,87710,http://www.mvhsnm.org
+High School,RATON ,009,RATON HIGH,Joleene,Starr,joleene.starr@ratonschools.com,1535 TIGER CIRCLE,RATON,NM,87740,https://www.ratonschools.com/rhshome.html
+High School,SPRINGER ,010,SPRINGER HIGH,Shelley,Bruns,shelleybruns@springerschools.org,1401 8TH ST,SPRINGER,NM,87747,http://www.springerschools.org
+High School,MAXWELL ,011,MAXWELL HIGH,CHRISTINA,HIDALGO,chidalgo@maxwellp12.com,4TH ST AND PARQUE,MAXWELL,NM,87728,http://www.maxwellp12.com
+High School,CLOVIS ,012,CLOVIS HIGH,DAVID,FREDERICKS,david.fredericks@clovis-schools.org,1900 THORNTON,CLOVIS,NM,88101,http://www.clovis-schools.org/chs
+High School,CLOVIS ,012,CLOVIS HS FRESHMAN ACADEMY,SHANE,LEATHERWOOD,Shane.Leatherwood@clovis-schools.org,1400 CAMEO,CLOVIS,NM,88101,http://www.clovis-schools.org/chs-freshman
+High School,TEXICO ,013,TEXICO HIGH,Dee,Timberlake,dtimberlake@texicoschools.com,520 NORTH GRIFFIN,TEXICO,NM,88135,http://www.texicoschools.com
+High School,MELROSE ,014,MELROSE HIGH,Richard,Roybal,rroybal@melroseschools.org,100 MISSOURI AVE,MELROSE,NM,88124,http://www.melroseschools.org
+High School,GRADY ,015,GRADY HIGH,Beverly,Edwards,medwards@gradyschool.com,100 FRANKLIN ST,GRADY,NM,88120,http://www.gradyschool.com
+High School,FORT SUMNER ,016,FORT SUMNER HIGH,Sharon,Rowley,srowley@ftsumnerk12.com,1001 SUMNER AVE,FORT SUMNER,NM,88119,http://www.ftsumnerk12.com
+High School,LAS CRUCES ,017,ARROWHEAD PARK EARLY COLLEGE HIGH SCHOOL,Gabriela,Alaniz,galaniz@lcps.net,3400 SOUTH ESPINA ST,LAS CRUCES,NM,88001,https://www.lcps.net/
+High School,LAS CRUCES ,017,CENTENNIAL HIGH SCHOOL,Jeffrey,Brilliant,jbrillia@lcps.net,1950 S SONOMA RANCH BLVD,LAS CRUCES,NM,88011,https://chs.lcps.net/o/chs
+High School,LAS CRUCES ,017,LAS CRUCES HIGH,Brenda,Ballard,bballard@lcps.net,1750 EL PASEO RD,LAS CRUCES,NM,88001,https://lchs.lcps.net/o/lchs
+High School,LAS CRUCES ,017,MAYFIELD HIGH,Eric,Fraass,efraass@lcps.net,1955 NORTH VALLEY DR,LAS CRUCES,NM,88007,https://mhs.lcps.net/o/mhs
+High School,LAS CRUCES ,017,ORGAN MOUNTAIN HIGH SCHOOL,Luis,Lucero,llucero@lcps.net,5700 MESA GRANDE DR,LAS CRUCES,NM,88011,https://omhs.lcps.net/o/ohs
+High School,LAS CRUCES ,017,RIO GRANDE PREPARATORY INSTITUTE,Julia,Maestas,jmaestas@lcps.net,2355 AVENIDA DE MESILLA,MESILLA,NM,88046,https://rgpi.lcps.net/o/rgpi
+High School,HATCH VALLEY ,018,HATCH VALLEY HIGH,Brandy,Holguin,bholguin@hatchschools.net,170 EAST HERRERA,HATCH,NM,87937,www.hatchschools.net
+High School,GADSDEN ,019,ALTA VISTA EARLY COLLEGE HIGH SCHOOL,Liliana,De La Garza,ldelagarza@gisd.k12.nm.us,5235 HIGHWAY 28,ANTHONY,NM,88021,http://avechs.gisd.k12.nm.us
+High School,GADSDEN ,019,CHAPARRAL HIGH,Victoria,Lopez,vlopez@gisd.k12.nm.us,800 COUNTY LINE DR,ANTHONY,NM,88021,http://chs.gisd.k12.nm.us
+High School,GADSDEN ,019,DESERT PRIDE ACADEMY,DIANE,LUDWIG,DLUDWIG@GISD.K12.NM.US,100 SHRODE RD,ANTHONY,NM,88021,http://dp.gisd.k12.nm.us/
+High School,GADSDEN ,019,GADSDEN HIGH,Maria,Legarreta,mglegarreta@gisd.k12.nm.us,6308 HWY 28,ANTHONY,NM,88021,http://ghs.gisd.k12.nm.us
+High School,GADSDEN ,019,SANTA TERESA HIGH,GEMA,SUGGS,GSUGGS@GISD.K12.NM.US,100 AIRPORT RD,SANTA TERESA,NM,88008,http://sths.gisd.k12.nm.us
+High School,CARLSBAD ,020,CARLSBAD EARLY COLLEGE HIGH,Stacy,Verdin,stacy.verdin@carlsbadschools.net,1500 UNIVERSITY DR,CARLSBAD,NM,88220,https://cechs.carlsbadschools.net
+High School,CARLSBAD ,020,CARLSBAD ENRICHMENT CENTER,Jeff,O'Brain,jeff.obrain@carlsbadschools.net,406 N. ALAMEDA STREET,CARLSBAD,NM,88220,https://carlsbaded.org/enrichment
+High School,CARLSBAD ,020,CARLSBAD HIGH,Jim,Schapekahm,james.schapekahm@carlsbadschools.net,3000 WEST CHURCH,CARLSBAD,NM,88220,https://chs.carlsbadschools.net
+High School,CARLSBAD ,020,CARLSBAD HIGH,Roy,Delagarza,roy.delagarza@carlsbadschools.net,3000 WEST CHURCH,CARLSBAD,NM,88220,https://chs.carlsbadschools.net
+High School,LOVING ,021,LOVING HIGH,Catherine,Bass,cbass@lovingschools.org,602 SOUTH SIXTH,LOVING,NM,88256,https://www.lovingschools.com/High_School
+High School,ARTESIA ,022,ARTESIA HIGH,Eric,Greer,egreer@bulldogs.org,1006 WEST RICHARDSON,ARTESIA,NM,88210,https://ahs.bulldogs.org
+High School,SILVER CITY ,023,CLIFF HIGH,Janean,Garney,jgarney@silverschools.org,622 STATE HWY 211,CLIFF,NM,88028,http://www.silverschools.org
+High School,SILVER CITY ,023,SILVER HIGH,Claudia,Smith,csmith2@silverschools.org,3200 NORTH SILVER ST,SILVER CITY,NM,88061,http://www.silverschools.org
+High School,COBRE ,024,COBRE HIGH,Erin,Brown-Meeks,emeeks@cobreschools.org,1300 TOM FOY BLVD,BAYARD,NM,88023,http://cobrehigh.sharpschool.net
+High School,COBRE ,024,COBRE HIGH,Karen,Casedy,karen.casedy@explore.academy,1300 TOM FOY BLVD,BAYARD,NM,88023,http://cobrehigh.sharpschool.net
+High School,COBRE ,024,COBRE HIGH,Sandra,Montoya,SandraM@cobreschools.org,1300 TOM FOY BLVD,BAYARD,NM,88023,http://cobrehigh.sharpschool.net
+High School,SANTA ROSA ,025,SANTA ROSA HIGH,Sharon,West,sharonwest@srlions.com,717 3RD ST,SANTA ROSA,NM,88435,https://www.srlions.com/
+High School,VAUGHN ,026,VAUGHN HIGH,PamelaAnn,Roybal,proybal@vaughn.k12.nm.us,101 4TH,VAUGHN,NM,88353,https://www.vaughnschools.org/
+High School,LORDSBURG ,029,LORDSBURG HIGH,Jeffrey,Roberson,sroberson@lmsed.org,501 WEST FOURTH ST,LORDSBURG,NM,88045,http://www.lmsed.org
+High School,ANIMAS ,030,ANIMAS 7-12 SCHOOL,Kathy,Adams,kadams@animask12.net,1 PANTHER DR,ANIMAS,NM,88020,http://www.animask12.net
+High School,LOVINGTON ,031,LOVINGTON FRESHMAN ACADEMY,EARL,WILLIAMS,treywilliams@lovingtonschools.net,701 WEST AVE K,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+High School,LOVINGTON ,031,LOVINGTON HIGH,EARL,WILLIAMS,treywilliams@lovingtonschools.net,701 WEST AVE K,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+High School,LOVINGTON ,031,NEW HOPE ALTERNATIVE HIGH,GINA,HUTCHINS,ginahutchins@lovingtonschools.net,601 NORTH 5TH ST,LOVINGTON,NM,88260,http://www.lovingtonschools.net
+High School,EUNICE ,032,EUNICE HIGH,TRACY,DAVIS,tdavis@eunice.org,1101 19TH STREET,EUNICE,NM,88231,www.eunice.org
+High School,HOBBS ,033,HOBBS FRESHMAN HIGH,LANA,WELDY,WeldyL@hobbsschools.net,1401 E. SANGER,HOBBS,NM,88240,http://fhs.hobbsschools.net/
+High School,HOBBS ,033,HOBBS HIGH,JASON,PARRISH,ParrishJ@hobbsschools.net,800 NORTH JEFFERSON,HOBBS,NM,88240,http://hhs.hobbsschools.net/
+High School,TATUM ,035,TATUM HIGH,Robin,Fulce,rfulce@tatumschools.org,307 WEST 3RD STREET,TATUM,NM,88267,http://www.tatumschools.org
+High School,RUIDOSO ,036,RUIDOSO HIGH,Angela,Romero,romeroa@ruidososchools.org,125 WARRIOR DR,RUIDOSO,NM,88345,http://www.ruidososchools.org/ruidosohighschool_home.aspx
+High School,CARRIZOZO ,037,CARRIZOZO HIGH,Elizabeth,Barela,eli.barela@carrizozogrizzlies.org,800 D AVE,CARRIZOZO,NM,88301,https://www.carrizozogrizzlies.org/
+High School,CAPITAN ,040,CAPITAN HIGH,Becky,Huey,becky.huey@capitantigers.org,519 SMOKEY BEAR BLVD,CAPITAN,NM,88316,https://www.capitantigers.org
+High School,DEMING ,042,DEMING CESAR CHAVEZ,Noel,Nunez,nnunez@cesarchavezcharterhs.com,315 EAST 1ST ST,DEMING,NM,88030,https://www.cesarchavezcharterhs.com/
+High School,DEMING ,042,DEMING HIGH,Gasper,Lozano,gasper.lozano@demingps.org,1300 S. IRON ST.,DEMING,NM,88030,http://dhs.demingps.org
+High School,DEMING ,042,EARLY COLLEGE HIGH SCHOOL,Bryan,Simpson,bryan.simpson@demingps.org,2300 E. PINE ST.,DEMING,NM,88030,http://echs.demingps.org
+High School,DEMING ,042,MIMBRES VALLEY HIGH SCHOOL,Gasper,Lozano,gasper.lozano@demingps.org,720 BUCKEYE ST.,DEMING,NM,88030,http://dhs.demingps.org
+High School,GALLUP ,043,CROWNPOINT HIGH,Kelly,Morris,kmorris@gmcs.org,#1 EAGLE DR,CROWNPOINT,NM,87313,https://cph.gmcs.org/
+High School,GALLUP ,043,GALLUP CENTRAL ALTERNATIVE,Kristi,Delcurto,kdelcurt@gmcs.org,325 MARGUERITE ST,GALLUP,NM,87301,https://gmcs.org/schools/
+High School,GALLUP ,043,GALLUP HIGH,Connie,Cuellar,ccuellar@gmcs.org,1055 RICO ST,GALLUP,NM,87301,https://gph.gmcs.org/
+High School,GALLUP ,043,MIYAMURA HIGH SCHOOL,Nick,Garro,ngarro@gmcs.org,680 SOUTH BOARDMAN,GALLUP,NM,87301,https://hmh.gmcs.org/
+High School,GALLUP ,043,NAVAJO PINE HIGH,Roberta,Tayah,rtayah@gmcs.org,4 WEST WALNUT AVE,NAVAJO,NM,87328,https://nph.gmcs.org/
+High School,GALLUP ,043,RAMAH HIGH,David,Gibbons,DGIBBONS@gmcs.org,74 S BLOOMFIELD AVE,RAMAH,NM,87321,https://rah.gmcs.org/
+High School,GALLUP ,043,THOREAU HIGH,Lawrence,Sena,lsena@gmcs.org,4 HAWK CIRCLE,THOREAU,NM,87323,https://thh.gmcs.org/
+High School,GALLUP ,043,TOHATCHI HIGH,Richard,Moore,rmoore1@gmcs.org,COUGAR LANE N 491,TOHATCHI,NM,87325,https://toh.gmcs.org/
+High School,GALLUP ,043,TOHATCHI HIGH,Brittainy,Garro,bgarro@gmcs.org,COUGAR LANE N 491,TOHATCHI,NM,87325,https://toh.gmcs.org/
+High School,GALLUP ,043,TSE YI GAI HIGH,Sharon,Vannier,svannier@gmcs.org,118 COUNSELOR RD,PUEBLO PINTADO,NM,87013,https://tgh.gmcs.org/
+High School,MORA ,044,MORA HIGH,Lefonso,Castillo,lcastillo@mora.k12.nm.us,#10 RANGER DRIVE,MORA,NM,87732,https://www.mora.k12.nm.us
+High School,ALAMOGORDO ,046,ALAMOGORDO HIGH,April,Shay,April.Shay@alamogordoschools.org,103 CUBA AVE,ALAMOGORDO,NM,88310,http://www.aps4kids.org
+High School,CLOUDCROFT ,048,CLOUDCROFT HIGH,Jocelyne,Gillespie,jocelyne.gillespie@cmsbears.org,310 JAMES CANYON HWY,CLOUDCROFT,NM,88317,http://www.cmsbears.org
+High School,TUCUMCARI ,049,TUCUMCARI HIGH,Nicole,Bright-Lesly,n.bright-lesly@tucumcarischools.com,1001 SOUTH 7TH ST,TUCUMCARI,NM,88401,https://tucumcarischools.com/
+High School,HOUSE ,050,HOUSE HIGH,Coby,Norman,cnorman@houseschools.net,309 APPLE ST,HOUSE,NM,88121,http://www.houseschools.net
+High School,LOGAN ,051,LOGAN HIGH,Crystal,Burns,cburns@loganschool.net,301 NORTH 2ND ST,LOGAN,NM,88426,http://www.loganschool.net
+High School,SAN JON ,052,SAN JON HIGH,Sharla,Rusk,srusk@sanjonschools.com,7TH AND ELM STREETS,SAN JON,NM,88434,http://www.sanjonschools.com
+High School,DULCE ,054,DULCE HIGH,William,Royal,wroyal@dulceschools.com,113 HAWK DR,DULCE,NM,87528,http://www.dulceschools.com
+High School,ESPANOLA ,055,ESPANOLA VALLEY HIGH,Kelly,Miller,kelly.miller@k12espanola.org,1111 EL LLANO RD,ESPANOLA,NM,87532,http://www.k12espanola.org/schools
+High School,PORTALES ,057,PORTALES HIGH,Nathan,Dodge,ndodge@portalesschools.com,201 SOUTH KNOXVILLE AVE,PORTALES,NM,88130,http://www.portalesschools.com/portales_high_school
+High School,ELIDA ,058,ELIDA HIGH,Waverly,Criswell,wcriswell@elidaschools.net,101 NORTH CHURCH,ELIDA,NM,88116,http://www.elidaschools.net
+High School,FLOYD ,059,FLOYD HIGH,Adam,Terry,aterry@floydbroncos.com,1564 NM 267,FLOYD,NM,88118,http://www.floydbroncos.com
+High School,DORA ,060,DORA HIGH,Amanda,Harris,aharris@doraschools.com,100 SCHOOL ST,DORA,NM,88115,http://www.doraschools.com
+High School,BERNALILLO ,061,BERNALILLO HIGH,Alyssa,Sanchez Padilla,alysanchez@bernalillops.org,250 ISIDRO SANCHEZ RD,BERNALILLO,NM,87004,https://www.bernalillo-schools.org
+High School,CUBA ,062,CUBA HIGH,Shirley,Hurford,NULL,50 COUNTY RD 13 BLDG 53,CUBA,NM,87013,http://cuba.k12.nm.us/schools/cuba_high_school
+High School,JEMEZ VALLEY ,063,JEMEZ VALLEY HIGH,EUDORE,CAMATA,ecamata@jvps.org,8501 HWY 4,JEMEZ PUEBLO,NM,87024,https://www.jvps.org/o/jvmhs
+High School,AZTEC ,064,AZTEC HIGH,Brandon,Thurston,ahthurbr@aztecschools.com,500 EAST CHACO,AZTEC,NM,87410,http://ahs-amsd-nm.schoolloop.com
+High School,AZTEC ,064,VISTA NUEVA HIGH,Devon,Robertson,vnrobede@aztecschools.com,315 SOUTH ASH,AZTEC,NM,87410,http://vnhs-amsd-nm.schoolloop.com
+High School,FARMINGTON ,065,FARMINGTON HIGH,Rocky,Torres,rotorres@fms.k12.nm.us,2200 SUNSET AVE,FARMINGTON,NM,87401,https://fhs.fms.k12.nm.us
+High School,FARMINGTON ,065,PIEDRA VISTA HIGH,Kelly,Thur,kthur@fms.k12.nm.us,5700 COLLEGE BLVD,FARMINGTON,NM,87402,https://pvhs.fms.k12.nm.us/o/pvhs
+High School,FARMINGTON ,065,ROCINANTE HIGH,Bruce,Hatch,bhatch@fms.k12.nm.us,3250 EAST 30TH ST,FARMINGTON,NM,87401,https://rhs.fms.k12.nm.us
+High School,FARMINGTON ,065,SAN JUAN COLLEGE HIGH SCHOOL,Seth,Martinez,smartinez@fms.k12.nm.us,4601 COLLEGE BOULEVARD,FARMINGTON,NM,87402,https://sjchs.fms.k12.nm.us
+High School,BLOOMFIELD ,066,BLOOMFIELD HIGH,Heather,Summers,hsummers@bsin.k12.nm.us,520 NORTH FIRST ST,BLOOMFIELD,NM,87413,https://bfsdbhs.ss19.sharpschool.com/
+High School,BLOOMFIELD ,066,CHARLIE Y. BROWN ALT,John,Sandoval,jsandoval@bsin.k12.nm.us,924 SOUTH BLOOMFIELD BLVD,BLOOMFIELD,NM,87413,https://bfsdcyb.ss19.sharpschool.com/
+High School,CENTRAL ,067,CAREER PREP ALTERNATIVE,STACI,GALLAHER,galls@centralschools.org,WEST HWY 64,SHIPROCK,NM,87420,https://www.ccsdnm.org/careerprep
+High School,CENTRAL ,067,KIRTLAND CENTRAL HIGH,REBECCA,BENEDICT,bener@centralschools.org,550 COUNTY ROAD 6100,KIRTLAND,NM,87417,https://www.ccsdnm.org/kirtlandcentral
+High School,CENTRAL ,067,NEWCOMB HIGH,JOHN,BROOKS,brooj@centralschools.org,US 491,NEWCOMB,NM,87455,https://www.ccsdnm.org/newcombhigh
+High School,WEST LAS VEGAS ,068,WEST LAS VEGAS HIGH SCHOOL,Carla,Pacheco,carla_pacheco@wlvs.org,157 MORENO ST,LAS VEGAS,NM,87701,https://www.wlvs.k12.nm.us/o/wlvs/page/west-las-vegas-high-school
+High School,LAS VEGAS CITY ,069,ROBERTSON HIGH,Michael,Yara,mikeyara@cybercardinal.com,1236 5TH STREET,LAS VEGAS,NM,87701,http://robertson.cybercardinal.com/
+High School,PECOS ,070,PECOS HIGH,Pedro,Vallejo,pvallejo@pecos.k12.nm.us,NORTH NM HWY 63,PECOS,NM,87552,https://www.pecos.k12.nm.us/high-school
+High School,SANTA FE ,071,ACADEMY FOR TECHNOLOGY & CLASSICS,Jason,Morgan,jason.morgan@atcschool.org,74 A VAN NU PO RD,SANTA FE,NM,87508,http://www.atcschool.org
+High School,SANTA FE ,071,CAPITAL HIGH,JAIME,Holladay,JHOLLADAY@SFPS.K12.NM.US,4851 PASEO DEL SOL,SANTA FE,NM,87507,http://capital.sfps.info
+High School,SANTA FE ,071,EARLY COLLEGE OPPORTUNITIES,Joshua,Rhine,JRHINE@SFPS.K12.NM.US,2301 W. ZIA RD.,SANTA FE,NM,87505,http://eco.sfps.info
+High School,SANTA FE ,071,SANTA FE HIGH,JAKOB,LAIN,jlain@sfps.k12.nm.us,2100 YUCCA RD,SANTA FE,NM,87505,http://sfhs.sfps.info
+High School,SANTA FE ,071,SANTA FE HIGH,David,Vincent,DVINCENT@SFPS.K12.NM.US,2100 YUCCA RD,SANTA FE,NM,87505,http://sfhs.sfps.info
+High School,T OR C ,073,HOT SPRINGS HIGH,Anthony,Bastine,tbastine@torcschools.net,1200 NORTH PERSHING AVE,T OR C,NM,87901,http://www.torcschools.net
+High School,SOCORRO ,074,SOCORRO HIGH,Christine,Peguero,cpeguero@socorroschools.org,1200 MICHIGAN ST,SOCORRO,NM,87801,https://www.socorroschools.org/
+High School,MAGDALENA ,075,MAGDALENA HIGH,Christopher,Backstrom,chris.backstrom@magschools.us,201 DUGGINS DR,MAGDALENA,NM,87825,http://www.magdalena.k12.nm.us
+High School,TAOS ,076,TAOS HIGH,Robert,Trujillo,robvtru@taosschools.org,134 CERVANTES,TAOS,NM,87571,https://www.taosschools.org/en/schools/taos-high-school
+High School,MESA VISTA ,078,MESA VISTA HIGH,Richard,Apodaca,richard.apodaca@mesavista.org,HWY 285 JUNCTION 111,OJO CALIENTE,NM,87549,http://mesavistacsd.com
+High School,QUESTA ,079,QUESTA HIGH,Kimber,MacDonald,kmacdonald@questa.k12.nm.us,57 SAGEBRUSH LN,QUESTA,NM,87556,https://qisd-nm.schoolloop.com/
+High School,ESTANCIA ,080,ESTANCIA HIGH,Melinda,Lingnau,mindy.lingnau@emsdbears.us,9TH AND JOSEPH AVE,ESTANCIA,NM,87016,https://www.estancia.k12.nm.us
+High School,ESTANCIA ,080,ESTANCIA HIGH,Martha,Ward,martha.ward@emsdbears.us,9TH AND JOSEPH AVE,ESTANCIA,NM,87016,https://www.estancia.k12.nm.us
+High School,MORIARTY-EDGEWOOD ,081,MORIARTY HIGH,Robert,Adams,robert.adams@mesd.us,200 CENTER ST,MORIARTY,NM,87035,https://mhs.mesd.us/o/mhs
+High School,MOUNTAINAIR ,082,MOUNTAINAIR HIGH,Jennifer,Vigil,jennifer.vigil@mpschools.net,901 WEST 3RD ST,MOUNTAINAIR,NM,87036,https://www.mountainairpublicschools.net
+High School,RIO RANCHO ,083,CLEVELAND HIGH SCHOOL,VIRGIL,AFFENTRANGER,scott.affentranger@rrps.net,4800 CLEVELAND HEIGHTS RD NE,RIO RANCHO,NM,87144,http://cleveland.rrps.net
+High School,RIO RANCHO ,083,INDEPENDENCE HIGH SCHOOL,Jessica,Sanchez,jessica.sanchez@rrps.net,421 QUANTUM RD NE,RIO RANCHO,NM,87124,http://independence.rrps.net
+High School,RIO RANCHO ,083,RIO RANCHO CYBER ACADEMY,Julie,Arnold,julie.arnold@rrps.net,1330 JACKIE RD SE,RIO RANCHO,NM,87124,http://cyberacademy.rrps.net
+High School,RIO RANCHO ,083,RIO RANCHO HIGH,Millan,Baca,millan.baca@rrps.net,301 LOMA COLORADO DR NE,RIO RANCHO,NM,87124,http://rioranchohigh.rrps.net
+High School,CLAYTON ,084,CLAYTON HIGH,Claudia,Montoya,claudia.montoya@claytonschools.us,323 SOUTH 5TH ST,CLAYTON,NM,88415,http://www.claytonschools.us
+High School,DES MOINES ,085,DES MOINES HIGH,Jennifer,Poling,jpoling@dmsk12.org,500 DES MOINES AVENUE,DES MOINES,NM,88418,https://www.desmoines.k12.nm.us/District/Portal/Highschool
+High School,LOS LUNAS ,086,LOS LUNAS HIGH,Eric,Tiger,etiger@llschools.net,1776 EMILIO LOPEZ RD,LOS LUNAS,NM,87031,https://www.llschools.net
+High School,LOS LUNAS ,086,VALENCIA HIGH,Albert,Aragon,albaragon@llschools.net,301 BONITA VISTA BLVD,LOS LUNAS,NM,87031,https://www.llschools.net
+High School,BELEN ,087,BELEN HIGH,SONIA D.,LAWSON,LawsonS@beleneagles.org,1619 WEST DELGADO AVE,BELEN,NM,87002,https://www.beleneagles.org/o/bhs
+High School,GRANTS ,088,GCCS EARLY COLLEGE HIGH SCHOOL,Lora,Coles,lora.coles@gccs.k12.nm.us,1500 N 3RD STREET,GRANTS,NM,87020,http://www.gccs.k12.nm.us
+High School,GRANTS ,088,GRANTS HIGH,Stevy,Elkins,stevy.elkins@gccs.k12.nm.us,500 MOUNTAIN RD,GRANTS,NM,87020,http://www.gccs.k12.nm.us
+High School,GRANTS ,088,LAGUNA-ACOMA HIGH,Jackie,Sanchez,jackie.sanchez@gccs.k12.nm.us,282 CASA BLANCA ROAD EXIT 108,CASA BLANCA,NM,87007,http://www.gccs.k12.nm.us
+High School,ZUNI ,089,TWIN BUTTES CYBER ACADEMY,Wilbur,Hartwig,ray.hartwig@zpsd.org,10 NORTH SANDY SPRINGS RD,ZUNI,NM,87327,https://www.zpsd.org/
+High School,ZUNI ,089,ZUNI HIGH,Donald,Sparks,donald.sparks@zpsd.org,71 RTE 301 NORTH,ZUNI,NM,87327,https://www.zpsd.org/
+High School,NEW MEXICO ACADEMY FOR THE MEDIA ARTS ,501,NEW MEXICO ACADEMY FOR THE MEDIA ARTS,John,Rodarte,jrodarte@nmmediaarts.org,4401 CENTRAL AVE NE BLDG 2,ALBUQUERQUE,NM,87108,http://nmmediaarts.org
+High School,COTTONWOOD CLASSICAL PREP ,502,COTTONWOOD CLASSICAL PREP,John,Binnert,john.binnert@cottonwoodclassical.org,7801 JEFFERSON ST NE,ALBUQUERQUE,NM,87109,http://www.cottonwoodclassical.org
+High School,NM SCHOOL FOR THE ARTS ,509,NM SCHOOL FOR THE ARTS,Lori,Ayala,layala@nmschoolforthearts.org,500 MONTEZUMA AVENUE,SANTA FE,NM,87501,http://www.nmschoolforthearts.org
+High School,ALMA D'ARTE CHARTER ,511,ALMA D'ARTE CHARTER,Adam,Amador,aamador@almadarte.org,402 W COURT AVE,LAS CRUCES,NM,88005,http://www.almadarte.org
+High School,CESAR CHAVEZ COMMUNITY  SCHOOL ,512,CESAR CHAVEZ COMMUNITY  SCHOOL,Tani,Arness,tarness@cesarchavezcharter.net,1325 PALOMAS DR SE,ALBUQUERQUE,NM,87108,http://www.cesarchavezcharter.net
+High School,ABQ SCHOOL OF EXCELLENCE ,516,ABQ SCHOOL OF EXCELLENCE,Hakan,Yanar,hy11@abqse.org,13201 LOMAS BLVD NE,ALBUQUERQUE,NM,87112,http://www.abqse.org
+High School,ABQ SIGN LANGUAGE ACADEMY ,517,ABQ SIGN LANGUAGE ACADEMY,Charlotte,Alderete-Trujillo,charlotteat@aslacademy.com,620 LOMAS BLVD NW,ALBUQUERQUE,NM,87102,http://www.aslacademy.com
+High School,TIERRA ADENTRO ,518,TIERRA ADENTRO,Genevieve,Lopez,glopez@tierraadentronm.org,1781 BELLEMAH AVE,ALBUQUERQUE,NM,87104,http://www.tierraadentronm.org
+High School,THE MASTERS PROGRAM ,519,THE MASTERS PROGRAM,Karla,Moskowitz,kmoskowitz@tmpsantafe.org,6401 RICHARDS AVE,SANTA FE,NM,87508,www.tmpsantafe.org
+High School,THE ASK ACADEMY  ,520,THE ASK ACADEMY,Nadyne,Shimada,nshimada@theaskacademy.org,4550 SUNDT RD NE,RIO RANCHO,NM,87124,http://theaskacademy.org
+High School,ALDO LEOPOLD CHARTER ,532,ALDO LEOPOLD CHARTER,Hannah,Wecks,hwecks@aldocs.org,410 W 10TH ST,SILVER CITY,NM,88061,https://www.aldocs.org
+High School,THE GREAT ACADEMY ,536,THE GREAT ACADEMY,Keisha,Matthews,kmatthews@thegreatacademy.org,6001-A SAN MATEO BLVD NE,ALBUQUERQUE,NM,87109,thegreatacademy.org
+High School,WALATOWA CHARTER HIGH  ,552,WALATOWA CHARTER HIGH,Arrow,Wilkinson,awilkinson@walatowahcs.org,147 BEAR HEAD CANYON,JEMEZ PUEBLO,NM,87024,http://walatowahcs.org
+High School,EXPLORE ACADEMY ,557,EXPLORE ACADEMY,Jacob,Kolander,jake.kolander@explore.academy,5100 MASTHEAD ST NE,ALBUQUERQUE,NM,87109,https://www.explore.academy/abq
+High School,TIERRA ENCANTADA CHARTER SCHOOL ,565,TIERRA ENCANTADA CHARTER SCHOOL,Daniel,Pena,dpena@gotecs.org,4601 MISSION BEND,SANTA FE,NM,87507,https://www.gotecs.org
+High School,SIX DIRECTIONS INDIGENOUS SCHOOL ,568,SIX DIRECTIONS INDIGENOUS SCHOOL,Rebecca,Niiha,rebecca@sixdirectionsschool.org,2055 NM 602,GALLUP,NM,87301,https://www.sixdirectionsschool.org
+High School,HOZHO ACADEMY ,573,HOZHO ACADEMY,Adrian,Garcia,agarcia@hozhoacademy.org,515 PARK AVE,GALLUP,NM,87301,https://hozhoacademy.org
+High School,MIDDLE COLLEGE HIGH SCHOOL CHARTER - GALLUP ,578,MIDDLE COLLEGE HIGH SCHOOL CHARTER - GALLUP,Enrollment,Concurrent Dual,dualcollege@capitantigers.org,705 GURLEY AVE,GALLUP,NM,87301,http://www.mchsgallup.com
+High School,MIDDLE COLLEGE HIGH SCHOOL CHARTER - GALLUP ,578,MIDDLE COLLEGE HIGH SCHOOL CHARTER - GALLUP,Enrollment,Concurrent Dual,d.credit@lasmontanashigh.com,705 GURLEY AVE,GALLUP,NM,87301,http://www.mchsgallup.com
+High School,MIDDLE COLLEGE HIGH SCHOOL CHARTER - GALLUP ,578,MIDDLE COLLEGE HIGH SCHOOL CHARTER - GALLUP,Enrollment,Concurrent Dual,wnmu@socorro.k12.nm.us,705 GURLEY AVE,GALLUP,NM,87301,http://www.mchsgallup.com
+High School,ACES TECHNICAL CHARTER SCHOOL,579,ACES TECHNICAL CHARTER SCHOOL,Jeron,Campbell,jeroncam@yahoo.com,4501 MONTGOMERY BLVD NE,ALBUQUERQUE,NM,87109,https://www.acespublicschools.org/
+High School,PECOS CYBER ACADEMY ,584,PECOS CYBER ACADEMY,June,Boles,jboles@pecosca.us,"1841 OLD ROUTE 66, SUITE B",EDGEWOOD,NM,87015,https://pecoscyber.org/
+Junior High,JAL ,034,JAL JR HIGH,Dustin,Loftis,dusty.loftis@jalnm.org,100 PROPERTY STREET,JAL,NM,88252,http://www.jalnm.org
+Middle School,CARLSBAD ,020,CARLSBAD SIXTH GRADE ACADEMY - ALTA VISTA CAMPUS,Joleen,Lopez,Joleen.Lopez@carlsbadschools.net,301 SOUTH ALTA VISTA ST,CARLSBAD,NM,88220,https://av.carlsbadschools.net
+Middle School,COBRE ,024,SNELL MIDDLE,Richard,Best,rbest@cobreschools.org,501 TOM FOY BLVD,BAYARD,NM,88023,http://cobresnell.sharpschool.net
+Middle School,COBRE ,024,SNELL MIDDLE,Margaret,Begay,mbegay@cobreschools.org,501 TOM FOY BLVD,BAYARD,NM,88023,http://cobresnell.sharpschool.net
+Middle School,TUCUMCARI ,049,TUCUMCARI MIDDLE,Lendall,Borden,l.borden@tucumcarischools.com,1000 SOUTH 5TH ST,TUCUMCARI,NM,88401,https://tucumcarischools.com/
+Middle School,AZTEC ,064,C.V. KOOGLER MIDDLE,Brenda,McNeal,kmmcnebr@aztecschools.com,455 NORTH LIGHT PLANT RD,AZTEC,NM,87410,http://www.cvkoogler.org
+Middle School,SOCORRO ,074,R. SARRACINO MIDDLE,Alfonso,Otero,aotero@socorroschools.org,1425 EL CAMINO REAL,SOCORRO,NM,87801,https://www.socorroschools.org/
+Middle School,MESA VISTA ,078,MESA VISTA MIDDLE,Richard,Apodaca,richard.apodaca@mesavista.org,HWY 285 JUNCTION 111,OJO CALIENTE,NM,87549,http://mesavistacsd.com
+Middle School,GRANTS ,088,LOS ALAMITOS MIDDLE,Rana,Sanchez,rana.sanchez@gccs.k12.nm.us,1100 MT TAYLOR AVE,GRANTS,NM,87020,http://www.gccs.k12.nm.us
+Special Education,ALBUQUERQUE ,001,HIGHLAND AUTISM CENTER,Costa,Pavlakos,PAVLAKOS@aps.edu,220 MONROE SW,ALBUQUERQUE,NM,87108,highland.aps.edu
+State Supported,NM SCHOOL FOR THE BLIND AND VISUALLY IMPAIRED ,094,NM SCHOOL FOR THE BLIND AND VISUALLY IMPAIRED,Maritza,Rosas,maritzamorales@nmsbvi.k12.nm.us,1900 NORTH WHITE SANDS,ALAMOGORDO,NM,88310,http://www.nmsbvi.k12.nm.us
+State Supported,SEQUOYAH ,097,SEQUOYAH,Cynthia,Lucero,cynthia.lucero@doh.nm.gov,3405 PAN AMERICAN FWY,ALBUQUERQUE,NM,87107,http://nmsatc.org
+State Supported,SEQUOYAH ,097,SEQUOYAH,Holly,Hargrove,hollys.hargrove@doh.nm.gov,3405 PAN AMERICAN FWY,ALBUQUERQUE,NM,87107,http://nmsatc.org
+State Supported,JUVENILE JUSTICE ,099,AZTEC YOUTH ACADEMY,James,Moya,James.Moya@state.nm.us,10015 ROBERT LARNSON,LAS CRUCES,NM,88001,NULL
+State Supported,JUVENILE JUSTICE ,099,FOOTHILL HIGH SCHOOL,Frances,Borunda,frances.borunda@cyfd.nm.gov,400 EDITH BLVD NE,ALBUQUERQUE,NM,87107,NULL
