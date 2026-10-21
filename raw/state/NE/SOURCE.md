@@ -4,7 +4,7 @@ Agency: Nebraska Department of Education (NDE) — Nebraska Public Schools Admin
 
 Download date: 2026-10-21
 
-Excel lists of public school principals (elementary, middle, secondary) and superintendents for 2025-26 with name, email and address ( = NDE county-district-school code). Nonpublic schools are only available through the interactive NDE Directory Search (https://educdirsrc.education.ne.gov/, ASP.NET search tool with no bulk export link); not collected.
+Excel lists of public school principals (elementary, middle, secondary) and superintendents for 2025-26 with name, email and address (`AgencyID` = NDE county-district-school code). Nonpublic schools are only available through the interactive NDE Directory Search (https://educdirsrc.education.ne.gov/, ASP.NET search tool with no bulk export link); not collected.
 
 ## `PublicElementaryPrincipals-2526.xlsx`
 
