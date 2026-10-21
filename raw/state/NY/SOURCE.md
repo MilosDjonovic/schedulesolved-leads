@@ -4,7 +4,7 @@ Agency: New York State Education Department (NYSED) — SEDREF (State Education 
 
 Download date: 2026-10-21
 
-The person-contact columns are labelled  in SEDREF (for schools the CEO is the principal; for districts the superintendent). Report names below are NYSED's titles.
+The person-contact columns are labelled `CEO ...` in SEDREF (for schools the CEO is the principal; for districts the superintendent). Report names below are NYSED's titles.
 
 ## `SEDREF_public_school_principal_contacts.csv`
 
