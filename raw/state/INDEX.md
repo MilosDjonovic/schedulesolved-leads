@@ -52,6 +52,7 @@ Legend: **Y** = present, **N** = absent. "has principal email" / "has superinten
 | [DE](DE/SOURCE.md) | `Delaware_Public_Education_Organization_Directory_p3ez-si4g.csv` | 3,640 rows (all years; ~362 orgs in 2025) | N | N | N | N | **no contacts** |
 | [SD](SD/SOURCE.md) | `0926-Principal.xlsx`; `0926-SupsAdmin.xlsx` | 843 schools (82 nonpublic); 246 districts | Y | N | Y (name+phone) | Y (82, principal name) | No emails |
 | ND | — | — | — | — | — | — | nothing usable (none) — see below |
+| [AK](AK/SOURCE.md) | `DEED_Public_Schools_Database_pages_html.zip`; `DEED_District_Contact_Information_page.html` | 440 school pages; ~54 districts (HTML) | Y (HTML, 391) | N | District email only (no names) | N | HTML pages |
 | [VT](VT/SOURCE.md) | `Principals_07-2026.xlsx`; `Superintendents_07-2026.xlsx`; `edu-sy27-independent-school-directory.pdf` | 308 principals; 52 superintendents; independent schools PDF | Y | N | Y (name+phone) | Y (contact name, PDF) | No emails |
 | [WY](WY/SOURCE.md) | `WyEd_OnlineDirectory_PeopleExport_Principal.xlsx`; `WyEd_OnlineDirectory_PeopleExport_Superintendent.xlsx` | 346 principal rows; 52 superintendents | Y | Y | Y (name+email) | N | Online directory export |
 | [DC](DC/SOURCE.md) | `DCGIS_Charter_Schools.json`; `DCGIS_Public_Schools.json`; `DCGIS_Independent_Schools.json`; `OSSE_School_Directory-10_21_2026.xlsx` | 149 charter; 123 DCPS; 80 independent; 254 OSSE | Charter only (DIRECTOR) | N | N | List only (no contacts) | DCPS principals not published as data |
